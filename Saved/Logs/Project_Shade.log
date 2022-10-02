@@ -1064,3 +1064,79 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.02-17.57.03:310][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2022.10.02-17.57.03:408][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
 [2022.10.02-17.57.03:525][712]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.10.02-18.00.46:372][742]LogViewport: Scene viewport resized to 1170x902, mode Windowed.
+[2022.10.02-18.00.54:590][629]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2022.10.02-18.00.54:591][629]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2022.10.02-18.00.54:854][629]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/JJ_Stuff/LevelBlockOutTest.LevelBlockOutTest:PersistentLevel.TextRenderActor_0
+[2022.10.02-18.00.54:854][629]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/JJ_Stuff/LevelBlockOutTest.LevelBlockOutTest:PersistentLevel.TextRenderActor_0
+[2022.10.02-18.00.55:068][642]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2022.10.02-18.00.55:068][642]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2022.10.02-18.00.55:087][642]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/JJ_Stuff/LevelBlockOutTest.LevelBlockOutTest:PersistentLevel.TextRenderActor_UAID_107B4417FAEB243C01_1455510855
+[2022.10.02-18.00.55:087][642]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/JJ_Stuff/LevelBlockOutTest.LevelBlockOutTest:PersistentLevel.TextRenderActor_UAID_107B4417FAEB243C01_1455510855
+[2022.10.02-18.01.01:679][393]LogViewport: Scene viewport resized to 1179x902, mode Windowed.
+[2022.10.02-18.01.01:744][395]LogViewport: Scene viewport resized to 1202x902, mode Windowed.
+[2022.10.02-18.01.01:859][397]LogViewport: Scene viewport resized to 1229x902, mode Windowed.
+[2022.10.02-18.01.02:006][399]LogViewport: Scene viewport resized to 1258x902, mode Windowed.
+[2022.10.02-18.01.02:110][401]LogViewport: Scene viewport resized to 1295x902, mode Windowed.
+[2022.10.02-18.01.02:238][404]LogViewport: Scene viewport resized to 1296x902, mode Windowed.
+[2022.10.02-18.01.02:954][483]LogViewport: Scene viewport resized to 1301x902, mode Windowed.
+[2022.10.02-18.01.03:029][485]LogViewport: Scene viewport resized to 1330x902, mode Windowed.
+[2022.10.02-18.01.03:198][487]LogViewport: Scene viewport resized to 1345x902, mode Windowed.
+[2022.10.02-18.01.03:288][489]LogViewport: Scene viewport resized to 1362x902, mode Windowed.
+[2022.10.02-18.01.03:403][491]LogViewport: Scene viewport resized to 1376x902, mode Windowed.
+[2022.10.02-18.01.03:487][493]LogViewport: Scene viewport resized to 1384x902, mode Windowed.
+[2022.10.02-18.01.03:601][495]LogViewport: Scene viewport resized to 1411x902, mode Windowed.
+[2022.10.02-18.01.03:718][497]LogViewport: Scene viewport resized to 1428x902, mode Windowed.
+[2022.10.02-18.01.03:804][499]LogViewport: Scene viewport resized to 1439x902, mode Windowed.
+[2022.10.02-18.01.03:892][501]LogViewport: Scene viewport resized to 1451x902, mode Windowed.
+[2022.10.02-18.01.04:007][503]LogViewport: Scene viewport resized to 1462x902, mode Windowed.
+[2022.10.02-18.01.04:110][506]LogViewport: Scene viewport resized to 1470x902, mode Windowed.
+[2022.10.02-18.01.04:229][508]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2022.10.02-18.01.04:452][533]LogViewport: Scene viewport resized to 1467x902, mode Windowed.
+[2022.10.02-18.01.04:528][535]LogViewport: Scene viewport resized to 1440x902, mode Windowed.
+[2022.10.02-18.01.04:613][537]LogViewport: Scene viewport resized to 1413x902, mode Windowed.
+[2022.10.02-18.01.04:729][538]LogViewport: Scene viewport resized to 1375x902, mode Windowed.
+[2022.10.02-18.01.04:828][540]LogViewport: Scene viewport resized to 1339x902, mode Windowed.
+[2022.10.02-18.01.04:901][541]LogViewport: Scene viewport resized to 1320x902, mode Windowed.
+[2022.10.02-18.01.05:009][544]LogViewport: Scene viewport resized to 1307x902, mode Windowed.
+[2022.10.02-18.01.05:158][548]LogViewport: Scene viewport resized to 1305x902, mode Windowed.
+[2022.10.02-18.01.05:330][562]LogViewport: Scene viewport resized to 1303x902, mode Windowed.
+[2022.10.02-18.01.05:402][564]LogViewport: Scene viewport resized to 1299x902, mode Windowed.
+[2022.10.02-18.01.05:483][566]LogViewport: Scene viewport resized to 1295x902, mode Windowed.
+[2022.10.02-18.01.05:751][579]LogViewport: Scene viewport resized to 1298x902, mode Windowed.
+[2022.10.02-18.01.05:816][580]LogViewport: Scene viewport resized to 1382x902, mode Windowed.
+[2022.10.02-18.01.10:092][ 57]LogViewport: Scene viewport resized to 1378x902, mode Windowed.
+[2022.10.02-18.01.10:164][ 59]LogViewport: Scene viewport resized to 1357x902, mode Windowed.
+[2022.10.02-18.01.10:299][ 61]LogViewport: Scene viewport resized to 1331x902, mode Windowed.
+[2022.10.02-18.01.10:434][ 63]LogViewport: Scene viewport resized to 1300x902, mode Windowed.
+[2022.10.02-18.01.11:349][153]LogViewport: Scene viewport resized to 1293x902, mode Windowed.
+[2022.10.02-18.01.11:775][197]LogViewport: Scene viewport resized to 1284x902, mode Windowed.
+[2022.10.02-18.01.11:838][199]LogViewport: Scene viewport resized to 1282x902, mode Windowed.
+[2022.10.02-18.01.16:663][762]LogViewport: Scene viewport resized to 1283x902, mode Windowed.
+[2022.10.02-18.01.16:730][764]LogViewport: Scene viewport resized to 1315x902, mode Windowed.
+[2022.10.02-18.01.16:812][766]LogViewport: Scene viewport resized to 1349x902, mode Windowed.
+[2022.10.02-18.01.16:898][768]LogViewport: Scene viewport resized to 1363x902, mode Windowed.
+[2022.10.02-18.01.17:015][769]LogViewport: Scene viewport resized to 1403x902, mode Windowed.
+[2022.10.02-18.01.17:111][771]LogViewport: Scene viewport resized to 1412x902, mode Windowed.
+[2022.10.02-18.01.17:281][775]LogViewport: Scene viewport resized to 1418x902, mode Windowed.
+[2022.10.02-18.01.17:360][777]LogViewport: Scene viewport resized to 1424x902, mode Windowed.
+[2022.10.02-18.01.17:492][779]LogViewport: Scene viewport resized to 1450x902, mode Windowed.
+[2022.10.02-18.01.17:625][781]LogViewport: Scene viewport resized to 1453x902, mode Windowed.
+[2022.10.02-18.01.19:847][ 26]LogViewport: Scene viewport resized to 1455x902, mode Windowed.
+[2022.10.02-18.01.19:911][ 28]LogViewport: Scene viewport resized to 1473x902, mode Windowed.
+[2022.10.02-18.01.19:991][ 30]LogViewport: Scene viewport resized to 1490x902, mode Windowed.
+[2022.10.02-18.01.20:077][ 32]LogViewport: Scene viewport resized to 1505x902, mode Windowed.
+[2022.10.02-18.01.20:213][ 34]LogViewport: Scene viewport resized to 1535x902, mode Windowed.
+[2022.10.02-18.01.20:398][ 35]LogViewport: Scene viewport resized to 1531x902, mode Windowed.
+[2022.10.02-18.01.23:686][387]LogViewport: Scene viewport resized to 1529x902, mode Windowed.
+[2022.10.02-18.01.23:751][389]LogViewport: Scene viewport resized to 1512x902, mode Windowed.
+[2022.10.02-18.01.23:814][390]LogViewport: Scene viewport resized to 1497x902, mode Windowed.
+[2022.10.02-18.01.23:912][392]LogViewport: Scene viewport resized to 1473x902, mode Windowed.
+[2022.10.02-18.01.24:004][394]LogViewport: Scene viewport resized to 1438x902, mode Windowed.
+[2022.10.02-18.01.24:123][395]LogViewport: Scene viewport resized to 1426x902, mode Windowed.
+[2022.10.02-18.01.24:826][469]LogViewport: Scene viewport resized to 1414x902, mode Windowed.
+[2022.10.02-18.01.24:896][471]LogViewport: Scene viewport resized to 1407x902, mode Windowed.
+[2022.10.02-18.03.41:973][280]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/LevelBlockOutTest/7/ZJ/KLLUQNYJ23IQ9OR64843XS
+[2022.10.02-18.03.41:973][280]LogSavePackage: Moving '../../../../../../Unreal Projects/Project_Shade/Saved/KLLUQNYJ23IQ9OR64843XSB3B2DDB44F0DB3E73040E8BDC303E956.tmp' to '../../../../../../Unreal Projects/Project_Shade/Content/__ExternalActors__/JJ_Stuff/LevelBlockOutTest/7/ZJ/KLLUQNYJ23IQ9OR64843XS.uasset'
+[2022.10.02-18.03.41:992][280]AssetCheck: New page: Asset Save: TextRenderActor_UAID_107B4417FAEB243C01_1455510855
+[2022.10.02-18.03.41:992][280]LogContentValidation: Display: Validating TextRenderActor /Game/JJ_Stuff/LevelBlockOutTest.LevelBlockOutTest:PersistentLevel.TextRenderActor_UAID_107B4417FAEB243C01_1455510855
