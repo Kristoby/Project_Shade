@@ -5813,3 +5813,153 @@ Continuing with the rename may require changes to fix references in code or proj
 [2022.10.26-17.37.31:644][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.10.26-17.37.31:646][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
 [2022.10.26-17.37.31:738][608]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2022.10.26-17.38.33:811][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.10.26-17.38.36:372][635]LogSlate: Window 'Save Content' being destroyed
+[2022.10.26-17.38.36:454][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JJ_Stuff/EndDoor" FILE="E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/EndDoor.uasset" SILENT=true
+[2022.10.26-17.38.36:502][635]LogSavePackage: Moving output files for package: /Game/JJ_Stuff/EndDoor
+[2022.10.26-17.38.36:502][635]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/EndDoor26E735A3420A56D18148A5BFAA3D9F65.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/EndDoor.uasset'
+[2022.10.26-17.38.36:512][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JJ_Stuff/Level_1_Moving_Platform" FILE="E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Level_1_Moving_Platform.uasset" SILENT=true
+[2022.10.26-17.38.36:568][635]LogSavePackage: Moving output files for package: /Game/JJ_Stuff/Level_1_Moving_Platform
+[2022.10.26-17.38.36:568][635]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Level_1_Moving_PlatformA278FA184BC217A8992909BCDA9B4F40.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Level_1_Moving_Platform.uasset'
+[2022.10.26-17.38.36:570][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JJ_Stuff/Moving_Platform_Button" FILE="E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Moving_Platform_Button.uasset" SILENT=true
+[2022.10.26-17.38.36:642][635]LogSavePackage: Moving output files for package: /Game/JJ_Stuff/Moving_Platform_Button
+[2022.10.26-17.38.36:643][635]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Moving_Platform_ButtonE60F2D994D72131CAA25558DD50575FF.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Moving_Platform_Button.uasset'
+[2022.10.26-17.38.36:711][635]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Sam_Stuff/UI/MainMenu/MainMenuLevel.MainMenuLevel
+[2022.10.26-17.38.36:712][635]Cmd: MAP LOAD FILE="E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/Sam_Stuff/UI/MainMenu/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.26-17.38.36:712][635]LightingResults: New page: Lighting Build
+[2022.10.26-17.38.36:712][635]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2022.10.26-17.38.36:751][635]LogWorld: UWorld::CleanupWorld for Level_1_Blockout, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-17.38.36:751][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-17.38.36:764][635]MapCheck: New page: Map Check
+[2022.10.26-17.38.36:764][635]LightingResults: New page: Lighting Build
+[2022.10.26-17.38.36:823][635]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.26-17.38.36:827][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.10.26-17.38.36:831][635]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-17.38.36:831][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-17.38.36:895][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.10.26-17.38.36:958][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.10.26-17.38.36:971][635]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2022.10.26-17.38.36:971][635]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.26-17.38.36:971][635]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-17.38.36:971][635]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.10.26-17.38.36:974][635]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.26-17.38.37:035][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.26-17.38.37:062][635]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.26-17.38.37:062][635]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.209ms to complete.
+[2022.10.26-17.38.37:062][635]LogFileHelpers: Loading map 'MainMenuLevel' took 0.351
+[2022.10.26-17.38.37:107][635]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.26-17.38.37:107][635]LogContentValidation: Display: Validating Blueprint /Game/JJ_Stuff/Moving_Platform_Button.Moving_Platform_Button
+[2022.10.26-17.38.37:107][635]LogContentValidation: Display: Validating Blueprint /Game/JJ_Stuff/Level_1_Moving_Platform.Level_1_Moving_Platform
+[2022.10.26-17.38.37:107][635]LogContentValidation: Display: Validating Blueprint /Game/JJ_Stuff/EndDoor.EndDoor
+[2022.10.26-17.38.37:117][635]LogAutomationController: Ignoring very large delta of 3.37 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.10.26-17.38.41:651][118]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.26-17.38.41:672][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.26-17.38.41:672][118]PIE: New page: PIE session: MainMenuLevel (26 Oct 2022, 19:38:41)
+[2022.10.26-17.38.41:672][118]LogPlayLevel: Creating play world package: /Game/Sam_Stuff/UI/MainMenu/UEDPIE_0_MainMenuLevel
+[2022.10.26-17.38.41:675][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002993s)
+[2022.10.26-17.38.41:675][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sam_Stuff/UI/MainMenu/MainMenuLevel.MainMenuLevel to /Game/Sam_Stuff/UI/MainMenu/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003086s)
+[2022.10.26-17.38.41:675][118]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.26-17.38.41:675][118]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-17.38.41:676][118]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.10.26-17.38.41:676][118]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2022.10.26-17.38.41:737][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.26-17.38.41:739][118]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2022.10.26-17.38.41:739][118]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.26-17.38.41:739][118]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.26-17.38.41:739][118]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.26-17.38.41:739][118]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.26-17.38.41:739][118]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.26-17.38.41:739][118]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.26-17.38.41:739][118]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.26-17.38.41:739][118]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.26-17.38.41:740][118]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.26-17.38.41:740][118]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.26-17.38.41:740][118]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.26-17.38.41:742][118]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.26-17.38.41:773][118]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Astro A50 Game)
+[2022.10.26-17.38.41:773][118]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.26-17.38.41:773][118]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.26-17.38.41:773][118]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.26-17.38.41:774][118]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2022.10.26-17.38.41:774][118]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2022.10.26-17.38.41:776][118]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2022.10.26-17.38.41:776][118]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2022.10.26-17.38.41:776][118]LogInit: FAudioDevice initialized.
+[2022.10.26-17.38.41:776][118]LogAudio: Display: Audio Device (ID: 51) registered with world 'MainMenuLevel'.
+[2022.10.26-17.38.41:790][118]LogLoad: Game class is 'MainmenuGM_C'
+[2022.10.26-17.38.41:791][118]LogWorld: Bringing World /Game/Sam_Stuff/UI/MainMenu/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.10.26-18.38.41
+[2022.10.26-17.38.41:791][118]LogWorld: Bringing up level for play took: 0.000703
+[2022.10.26-17.38.41:793][118]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2022.10.26-17.38.41:794][118]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.26-17.38.41:794][118]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.26-17.38.41:794][118]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.26-17.38.41:795][118]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.26-17.38.41:795][118]PIE: Server logged in
+[2022.10.26-17.38.41:795][118]PIE: Play in editor total start time 0.124 seconds.
+[2022.10.26-17.38.44:699][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-17.38.44:700][440]LogWorld: BeginTearingDown for /Game/Sam_Stuff/UI/MainMenu/UEDPIE_0_MainMenuLevel
+[2022.10.26-17.38.44:700][440]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-17.38.44:700][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-17.38.44:715][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.26-17.38.44:722][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-17.38.44:780][440]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.26-17.38.44:780][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2022.10.26-17.38.44:782][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2022.10.26-17.38.44:785][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-17.38.44:788][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.10.26-17.38.44:839][441]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2022.10.26-17.38.57:826][990]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.26-17.38.57:847][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.26-17.38.57:847][990]PIE: New page: PIE session: MainMenuLevel (26 Oct 2022, 19:38:57)
+[2022.10.26-17.38.57:847][990]LogPlayLevel: Creating play world package: /Game/Sam_Stuff/UI/MainMenu/UEDPIE_0_MainMenuLevel
+[2022.10.26-17.38.57:850][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002696s)
+[2022.10.26-17.38.57:850][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sam_Stuff/UI/MainMenu/MainMenuLevel.MainMenuLevel to /Game/Sam_Stuff/UI/MainMenu/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002776s)
+[2022.10.26-17.38.57:850][990]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.26-17.38.57:850][990]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-17.38.57:851][990]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.10.26-17.38.57:851][990]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2022.10.26-17.38.57:913][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.10.26-17.38.57:915][990]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2022.10.26-17.38.57:915][990]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.26-17.38.57:915][990]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.26-17.38.57:915][990]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.26-17.38.57:915][990]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.26-17.38.57:915][990]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.26-17.38.57:915][990]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.26-17.38.57:915][990]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.26-17.38.57:915][990]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.26-17.38.57:916][990]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.26-17.38.57:916][990]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.26-17.38.57:916][990]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.26-17.38.57:918][990]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.26-17.38.57:949][990]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Astro A50 Game)
+[2022.10.26-17.38.57:949][990]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.26-17.38.57:950][990]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.26-17.38.57:950][990]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.26-17.38.57:950][990]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2022.10.26-17.38.57:950][990]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2022.10.26-17.38.57:952][990]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2022.10.26-17.38.57:952][990]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2022.10.26-17.38.57:952][990]LogInit: FAudioDevice initialized.
+[2022.10.26-17.38.57:952][990]LogAudio: Display: Audio Device (ID: 52) registered with world 'MainMenuLevel'.
+[2022.10.26-17.38.57:967][990]LogLoad: Game class is 'MainmenuGM_C'
+[2022.10.26-17.38.57:967][990]LogWorld: Bringing World /Game/Sam_Stuff/UI/MainMenu/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.10.26-18.38.57
+[2022.10.26-17.38.57:968][990]LogWorld: Bringing up level for play took: 0.000689
+[2022.10.26-17.38.57:970][990]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2022.10.26-17.38.57:971][990]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.26-17.38.57:971][990]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.26-17.38.57:971][990]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.26-17.38.57:972][990]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.26-17.38.57:972][990]PIE: Server logged in
+[2022.10.26-17.38.57:973][990]PIE: Play in editor total start time 0.126 seconds.
+[2022.10.26-17.39.03:010][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-17.39.03:010][571]LogWorld: BeginTearingDown for /Game/Sam_Stuff/UI/MainMenu/UEDPIE_0_MainMenuLevel
+[2022.10.26-17.39.03:010][571]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-17.39.03:010][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-17.39.03:025][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.26-17.39.03:031][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-17.39.03:093][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-17.39.03:093][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2022.10.26-17.39.03:095][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2022.10.26-17.39.03:101][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.10.26-17.39.03:153][572]LogPlayLevel: Display: Destroying online subsystem :Context_75
