@@ -5963,3 +5963,279 @@ Continuing with the rename may require changes to fix references in code or proj
 [2022.10.26-17.39.03:095][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
 [2022.10.26-17.39.03:101][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
 [2022.10.26-17.39.03:153][572]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2022.10.26-17.39.54:115][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.10.26-17.39.54:170][609]LogAssetEditorSubsystem: Opening Asset editor for World /Game/JJ_Stuff/Level_1_Blockout.Level_1_Blockout
+[2022.10.26-17.39.54:171][609]Cmd: MAP LOAD FILE="E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Level_1_Blockout.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.26-17.39.54:171][609]LightingResults: New page: Lighting Build
+[2022.10.26-17.39.54:171][609]LoadErrors: New page: Loading map: Level_1_Blockout.umap
+[2022.10.26-17.39.54:173][609]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-17.39.54:173][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-17.39.54:173][609]MapCheck: New page: Map Check
+[2022.10.26-17.39.54:173][609]LightingResults: New page: Lighting Build
+[2022.10.26-17.39.54:230][609]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.26-17.39.54:233][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.10.26-17.39.54:236][609]LogWorld: UWorld::CleanupWorld for Level_1_Blockout, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-17.39.54:236][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-17.39.54:297][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.10.26-17.39.54:360][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.10.26-17.39.54:370][609]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1_Blockout'.
+[2022.10.26-17.39.54:370][609]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-17.39.54:371][609]LogAIModule: Creating AISystem for world Level_1_Blockout
+[2022.10.26-17.39.54:371][609]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.26-17.39.54:371][609]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.10.26-17.39.54:396][609]LogWorldPartition: Display: WorldPartition initialize took 25 ms
+[2022.10.26-17.39.54:404][609]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.26-17.39.54:467][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.10.26-17.39.54:493][609]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.26-17.39.54:494][609]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.268ms to complete.
+[2022.10.26-17.39.54:494][609]LogFileHelpers: Loading map 'Level_1_Blockout' took 0.323
+[2022.10.26-17.39.59:227][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.10.26-17.40.01:614][258]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.26-17.40.01:614][258]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.26-17.40.09:259][142]LogContentBrowser: Attempting asset rename: Level_1_Blockout_2 -> Level_2_Blockout
+[2022.10.26-17.40.09:297][142]LogMetaData: Removing '/Game/JJ_Stuff/Level_2_Blockout.SKEL_Level_2_Blockout_C' ref from Metadata '/Game/JJ_Stuff/Level_1_Blockout_2.PackageMetaData'
+[2022.10.26-17.40.09:297][142]LogMetaData: Removing '/Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout_C' ref from Metadata '/Game/JJ_Stuff/Level_1_Blockout_2.PackageMetaData'
+[2022.10.26-17.40.09:333][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-17.40.09:378][142]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/0/TG/UDFCMSQJS4V34HJFCQZDHV
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/1/OA/XRNDDH1TBOU46LFBBM9AGP
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/6/BZ/YN9Z4W4YJM1VZB9DD67AJB
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/1/X4/G9SXK3D530NOUQPXHQG6Q9
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/7/3G/TKVULEBMOPNYW047E5INGT
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/D/2E/BUJ86G6H1WHD4408MC30QP
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/3/RE/0JZ03GWDVNMYYA1LRI9CHC
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/8/3A/GKVPYGQ2PH7F77CDE5LTP1
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/KJ/DV56RIGIXW2LZ7E68GK6MC
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/D/V0/G4RBUH0ODR8I414CIFGRAM
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/9/E0/1FX0KCEZUYH9KFQPPQ1SDD
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/B/B3/Q13B3JXGCNX29OG29HI29J
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/C7/HR2DS9XKK60CE5S6OPJHC0
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/1V/R4R6IADRKIT7BFUTAJMU4S
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/2/JV/ORW6RH2DGQGUQVY2MAWIQA
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/4/TT/01G1EKRS4J1AF6YOJDZEKZ
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/9/29/GNW5QKNCI8WTN0DV4820DI
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/A/6A/WOCW8Q4FLR27SZZVBY9NHC
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/4/Y2/Y6MJQBMKS8PKM0WDQCWC7H
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/3/8Y/KN89O93BTHR21I6JX25VNE
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/1/DW/C7J0HUMGPPP22N79M6IRTD
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/2/Z5/GXOCWPFXD20HV14MTTKSV9
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/7/4K/O1TJTYM17SM803N43TU0TY
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/D/LE/DKP1DBTLCVELN165R9KGKX
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/I8/ZQN56F2TPUPO6S9VTLXRNJ
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/1/1B/DUV2YGJZ0PXJP73Z5PO4IH
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/0G/0DTU2EKQTWGN5EL567692H
+/Game/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/0/UE/52A2H13E10BLDSM739VQ58
+/Game/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/5/CG/QV365KSDXO2MXIE9OPB6J5
+/Game/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/7/MJ/N3Z0NH50NNZVK5ZP0A4Y2A
+/Game/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/6/1G/Q6ARPCLE7JI9YBKVVE8ZAY
+/Game/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/9/9A/IDAPZBP6SGMF56F3RPW5XI
+/Game/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/E/ZX/M6GFUPPD8K6IQNQK6ILFOA
+[2022.10.26-17.40.09:386][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/0/TG/UDFCMSQJS4V34HJFCQZDHV
+[2022.10.26-17.40.09:386][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/UDFCMSQJS4V34HJFCQZDHV84B7851D46D878FFB92DF38937214147.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/0/TG/UDFCMSQJS4V34HJFCQZDHV.uasset'
+[2022.10.26-17.40.09:488][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/1/OA/XRNDDH1TBOU46LFBBM9AGP
+[2022.10.26-17.40.09:488][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/XRNDDH1TBOU46LFBBM9AGP8E415CE44D20550965F063ABBA9D44DB.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/1/OA/XRNDDH1TBOU46LFBBM9AGP.uasset'
+[2022.10.26-17.40.09:562][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/6/BZ/YN9Z4W4YJM1VZB9DD67AJB
+[2022.10.26-17.40.09:562][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/YN9Z4W4YJM1VZB9DD67AJB56987B214706852D79E582A34A78D85C.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/6/BZ/YN9Z4W4YJM1VZB9DD67AJB.uasset'
+[2022.10.26-17.40.09:632][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/1/X4/G9SXK3D530NOUQPXHQG6Q9
+[2022.10.26-17.40.09:632][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/G9SXK3D530NOUQPXHQG6Q9D1FB4D044FDAB417CDD57198C8CC9D6B.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/1/X4/G9SXK3D530NOUQPXHQG6Q9.uasset'
+[2022.10.26-17.40.09:672][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/7/3G/TKVULEBMOPNYW047E5INGT
+[2022.10.26-17.40.09:672][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/TKVULEBMOPNYW047E5INGT5D296F224EEC77AFBB9522B50FADEE72.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/7/3G/TKVULEBMOPNYW047E5INGT.uasset'
+[2022.10.26-17.40.09:743][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/D/2E/BUJ86G6H1WHD4408MC30QP
+[2022.10.26-17.40.09:743][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/BUJ86G6H1WHD4408MC30QP5B3E0CF740AE6CEF1F10879A478D2608.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/D/2E/BUJ86G6H1WHD4408MC30QP.uasset'
+[2022.10.26-17.40.09:816][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/3/RE/0JZ03GWDVNMYYA1LRI9CHC
+[2022.10.26-17.40.09:816][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/0JZ03GWDVNMYYA1LRI9CHC8D3689034FC6EDF76934B2BA2772149B.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/3/RE/0JZ03GWDVNMYYA1LRI9CHC.uasset'
+[2022.10.26-17.40.09:887][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/8/3A/GKVPYGQ2PH7F77CDE5LTP1
+[2022.10.26-17.40.09:887][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/GKVPYGQ2PH7F77CDE5LTP14C89B67540581A3AC8E52AA0F75DD278.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/8/3A/GKVPYGQ2PH7F77CDE5LTP1.uasset'
+[2022.10.26-17.40.09:958][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/KJ/DV56RIGIXW2LZ7E68GK6MC
+[2022.10.26-17.40.09:958][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/DV56RIGIXW2LZ7E68GK6MC80E6EEFE4DC9E48E728941B943BF86EA.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/KJ/DV56RIGIXW2LZ7E68GK6MC.uasset'
+[2022.10.26-17.40.10:031][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/D/V0/G4RBUH0ODR8I414CIFGRAM
+[2022.10.26-17.40.10:031][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/G4RBUH0ODR8I414CIFGRAM7D7B649E4F9B8FF10AD08B882D9B2AC9.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/D/V0/G4RBUH0ODR8I414CIFGRAM.uasset'
+[2022.10.26-17.40.10:071][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/9/E0/1FX0KCEZUYH9KFQPPQ1SDD
+[2022.10.26-17.40.10:071][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/1FX0KCEZUYH9KFQPPQ1SDD433EAE894B30F548D0ED57846C6FE78C.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/9/E0/1FX0KCEZUYH9KFQPPQ1SDD.uasset'
+[2022.10.26-17.40.10:152][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/B/B3/Q13B3JXGCNX29OG29HI29J
+[2022.10.26-17.40.10:153][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Q13B3JXGCNX29OG29HI29J8D1FDE844B3587AEDA048A87CEE9EE8D.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/B/B3/Q13B3JXGCNX29OG29HI29J.uasset'
+[2022.10.26-17.40.10:225][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/C7/HR2DS9XKK60CE5S6OPJHC0
+[2022.10.26-17.40.10:225][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/HR2DS9XKK60CE5S6OPJHC00ECE13144901AFFF5EA7FBA1B4A6992F.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/C7/HR2DS9XKK60CE5S6OPJHC0.uasset'
+[2022.10.26-17.40.10:266][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/1V/R4R6IADRKIT7BFUTAJMU4S
+[2022.10.26-17.40.10:266][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/R4R6IADRKIT7BFUTAJMU4SC40827A74D91468EFA4A8C8F3B1025EC.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/1V/R4R6IADRKIT7BFUTAJMU4S.uasset'
+[2022.10.26-17.40.10:323][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/2/JV/ORW6RH2DGQGUQVY2MAWIQA
+[2022.10.26-17.40.10:323][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/ORW6RH2DGQGUQVY2MAWIQA990D11D8462D97A33514FD9531153853.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/2/JV/ORW6RH2DGQGUQVY2MAWIQA.uasset'
+[2022.10.26-17.40.10:395][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/4/TT/01G1EKRS4J1AF6YOJDZEKZ
+[2022.10.26-17.40.10:395][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/01G1EKRS4J1AF6YOJDZEKZ00FDC9F04534A95F9672359662457F25.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/4/TT/01G1EKRS4J1AF6YOJDZEKZ.uasset'
+[2022.10.26-17.40.10:467][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/9/29/GNW5QKNCI8WTN0DV4820DI
+[2022.10.26-17.40.10:467][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/GNW5QKNCI8WTN0DV4820DI59436B1B44A4C54EB3440E8AC056F119.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/9/29/GNW5QKNCI8WTN0DV4820DI.uasset'
+[2022.10.26-17.40.10:517][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/A/6A/WOCW8Q4FLR27SZZVBY9NHC
+[2022.10.26-17.40.10:518][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/WOCW8Q4FLR27SZZVBY9NHCE5C1B1CD4DAEE72F0773428489F9CAE1.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/A/6A/WOCW8Q4FLR27SZZVBY9NHC.uasset'
+[2022.10.26-17.40.10:588][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/4/Y2/Y6MJQBMKS8PKM0WDQCWC7H
+[2022.10.26-17.40.10:589][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Y6MJQBMKS8PKM0WDQCWC7HCB50A1A244DBE8159C3698861DC4938B.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/4/Y2/Y6MJQBMKS8PKM0WDQCWC7H.uasset'
+[2022.10.26-17.40.10:629][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/3/8Y/KN89O93BTHR21I6JX25VNE
+[2022.10.26-17.40.10:629][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/KN89O93BTHR21I6JX25VNEF0A6D117476CBE79BC66A0BA32892FC0.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/3/8Y/KN89O93BTHR21I6JX25VNE.uasset'
+[2022.10.26-17.40.10:670][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/1/DW/C7J0HUMGPPP22N79M6IRTD
+[2022.10.26-17.40.10:670][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/C7J0HUMGPPP22N79M6IRTDF9465D334727F83C830A85AAEE6B9E63.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/1/DW/C7J0HUMGPPP22N79M6IRTD.uasset'
+[2022.10.26-17.40.10:711][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/2/Z5/GXOCWPFXD20HV14MTTKSV9
+[2022.10.26-17.40.10:712][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/GXOCWPFXD20HV14MTTKSV9AA93F9314FBCCA787E0DE38F7F6D7323.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/2/Z5/GXOCWPFXD20HV14MTTKSV9.uasset'
+[2022.10.26-17.40.10:752][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/7/4K/O1TJTYM17SM803N43TU0TY
+[2022.10.26-17.40.10:752][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/O1TJTYM17SM803N43TU0TY270DD41142C9BA4367DBAD82C28C4A9E.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/7/4K/O1TJTYM17SM803N43TU0TY.uasset'
+[2022.10.26-17.40.10:792][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/D/LE/DKP1DBTLCVELN165R9KGKX
+[2022.10.26-17.40.10:793][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/DKP1DBTLCVELN165R9KGKX3C79C0C54C77BACB7AFDAEB78018882B.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/D/LE/DKP1DBTLCVELN165R9KGKX.uasset'
+[2022.10.26-17.40.10:833][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/I8/ZQN56F2TPUPO6S9VTLXRNJ
+[2022.10.26-17.40.10:833][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/ZQN56F2TPUPO6S9VTLXRNJEAF3123B432A452BB17B50AE922682F0.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/I8/ZQN56F2TPUPO6S9VTLXRNJ.uasset'
+[2022.10.26-17.40.10:875][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/1/1B/DUV2YGJZ0PXJP73Z5PO4IH
+[2022.10.26-17.40.10:875][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/DUV2YGJZ0PXJP73Z5PO4IH1740FA1349AFAED7E6E476947D2051BA.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/1/1B/DUV2YGJZ0PXJP73Z5PO4IH.uasset'
+[2022.10.26-17.40.10:914][142]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/0G/0DTU2EKQTWGN5EL567692H
+[2022.10.26-17.40.10:914][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/0DTU2EKQTWGN5EL567692H0A540D7E47F31D64109FB0A1972B4E3E.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/0G/0DTU2EKQTWGN5EL567692H.uasset'
+[2022.10.26-17.40.10:954][142]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/0/UE/52A2H13E10BLDSM739VQ58
+[2022.10.26-17.40.10:955][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/52A2H13E10BLDSM739VQ580EC0D3C845B0239F96D13EB4BF2E4BE4.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/0/UE/52A2H13E10BLDSM739VQ58.uasset'
+[2022.10.26-17.40.11:057][142]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/5/CG/QV365KSDXO2MXIE9OPB6J5
+[2022.10.26-17.40.11:057][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/QV365KSDXO2MXIE9OPB6J5168C6B6B433E6941634C40B4BABA3E51.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/5/CG/QV365KSDXO2MXIE9OPB6J5.uasset'
+[2022.10.26-17.40.11:129][142]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/7/MJ/N3Z0NH50NNZVK5ZP0A4Y2A
+[2022.10.26-17.40.11:129][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/N3Z0NH50NNZVK5ZP0A4Y2A7F8933CB4B9D81A5CC43879052A9FE5C.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/7/MJ/N3Z0NH50NNZVK5ZP0A4Y2A.uasset'
+[2022.10.26-17.40.11:200][142]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/6/1G/Q6ARPCLE7JI9YBKVVE8ZAY
+[2022.10.26-17.40.11:200][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Q6ARPCLE7JI9YBKVVE8ZAY813505074B33E074E0F67597154C2CE7.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/6/1G/Q6ARPCLE7JI9YBKVVE8ZAY.uasset'
+[2022.10.26-17.40.11:272][142]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/9/9A/IDAPZBP6SGMF56F3RPW5XI
+[2022.10.26-17.40.11:272][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/IDAPZBP6SGMF56F3RPW5XI06AE536949A590B56D810087CB0A6555.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/9/9A/IDAPZBP6SGMF56F3RPW5XI.uasset'
+[2022.10.26-17.40.11:344][142]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/E/ZX/M6GFUPPD8K6IQNQK6ILFOA
+[2022.10.26-17.40.11:344][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/M6GFUPPD8K6IQNQK6ILFOA97DDA89C446076CAECF41EADFF64C25F.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/E/ZX/M6GFUPPD8K6IQNQK6ILFOA.uasset'
+[2022.10.26-17.40.11:409][142]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/0/TG/UDFCMSQJS4V34HJFCQZDHV
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/1/OA/XRNDDH1TBOU46LFBBM9AGP
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/6/BZ/YN9Z4W4YJM1VZB9DD67AJB
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/1/X4/G9SXK3D530NOUQPXHQG6Q9
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/7/3G/TKVULEBMOPNYW047E5INGT
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/D/2E/BUJ86G6H1WHD4408MC30QP
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/3/RE/0JZ03GWDVNMYYA1LRI9CHC
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/8/3A/GKVPYGQ2PH7F77CDE5LTP1
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/KJ/DV56RIGIXW2LZ7E68GK6MC
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/D/V0/G4RBUH0ODR8I414CIFGRAM
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/9/E0/1FX0KCEZUYH9KFQPPQ1SDD
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/B/B3/Q13B3JXGCNX29OG29HI29J
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/C7/HR2DS9XKK60CE5S6OPJHC0
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/1V/R4R6IADRKIT7BFUTAJMU4S
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/2/JV/ORW6RH2DGQGUQVY2MAWIQA
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/4/TT/01G1EKRS4J1AF6YOJDZEKZ
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/9/29/GNW5QKNCI8WTN0DV4820DI
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/A/6A/WOCW8Q4FLR27SZZVBY9NHC
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/4/Y2/Y6MJQBMKS8PKM0WDQCWC7H
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/3/8Y/KN89O93BTHR21I6JX25VNE
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/1/DW/C7J0HUMGPPP22N79M6IRTD
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/2/Z5/GXOCWPFXD20HV14MTTKSV9
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/7/4K/O1TJTYM17SM803N43TU0TY
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/D/LE/DKP1DBTLCVELN165R9KGKX
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/I8/ZQN56F2TPUPO6S9VTLXRNJ
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/1/1B/DUV2YGJZ0PXJP73Z5PO4IH
+/Game/__ExternalActors__/JJ_Stuff/Level_2_Blockout/C/0G/0DTU2EKQTWGN5EL567692H
+/Game/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/0/UE/52A2H13E10BLDSM739VQ58
+/Game/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/5/CG/QV365KSDXO2MXIE9OPB6J5
+/Game/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/7/MJ/N3Z0NH50NNZVK5ZP0A4Y2A
+/Game/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/6/1G/Q6ARPCLE7JI9YBKVVE8ZAY
+/Game/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/9/9A/IDAPZBP6SGMF56F3RPW5XI
+/Game/__ExternalObjects__/JJ_Stuff/Level_2_Blockout/E/ZX/M6GFUPPD8K6IQNQK6ILFOA
+[2022.10.26-17.40.11:474][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.10.26-17.40.11:518][142]LogSavePackage: Moving output files for package: /Game/JJ_Stuff/Level_2_Blockout
+[2022.10.26-17.40.11:518][142]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Level_2_Blockout734056014D2A0B97D39A45B3EAA6FF71.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Level_2_Blockout.umap'
+[2022.10.26-17.40.11:556][142]LogFileHelpers: Saving map 'Level_2_Blockout' took 2.225
+[2022.10.26-17.40.11:652][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.10.26-17.40.11:730][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.10.26-17.40.11:805][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.10.26-17.40.11:817][142]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating PostProcessVolume /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.PostProcessVolume_0
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating StaticMeshActor /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBAA4301_1466403851
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating PlayerStart /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.PlayerStart_0
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating EndDoor_C /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.EndDoor_C_UAID_107B4417FAEBAE4301_1291800560
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating StaticMeshActor /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBA34301_1901419614
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating StaticMeshActor /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBA24301_1494161425
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating Level_1_Moving_Platform_C /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.Level_1_Moving_Platform_C_UAID_107B4417FAEBA94301_1629668674
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating StaticMeshActor /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBA34301_1246600609
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating ExponentialHeightFog /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.ExponentialHeightFog_0
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating StaticMeshActor /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBA24301_1081396423
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating WorldPartitionMiniMap /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.WorldPartitionMiniMap_0
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating StaticMeshActor /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBA34301_1449514612
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating StaticMeshActor /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating TextRenderActor /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.TextRenderActor_UAID_107B4417FAEB243C01_1455510855
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating SkyAtmosphere /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.SkyAtmosphere_0
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating StaticMeshActor /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.StaticMeshActor_22
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating ActorFolder /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.ActorFolder_UID_7B7009C3-45D3D6DD-94D3429E-1D79C034
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating ActorFolder /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.ActorFolder_UID_C73F09FC-4215536B-1DCE2A9E-0A830C70
+[2022.10.26-17.40.11:817][142]LogContentValidation: Display: Validating ActorFolder /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.ActorFolder_UID_EBA23F82-48252949-750E4391-1A3A1CDD
+[2022.10.26-17.40.11:818][142]LogContentValidation: Display: Validating ActorFolder /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.ActorFolder_UID_963EC3EB-4002CCE9-759E2EBA-541A873A
+[2022.10.26-17.40.11:818][142]LogContentValidation: Display: Validating ActorFolder /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.ActorFolder_UID_7D23E5AE-4C2A421F-86AF6986-D87E6D05
+[2022.10.26-17.40.11:818][142]LogContentValidation: Display: Validating ActorFolder /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.ActorFolder_UID_D075E5BA-49330D3E-C2503D81-A7CF88D1
+[2022.10.26-17.40.11:818][142]LogContentValidation: Display: Validating CineCameraActor /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.CineCameraActor_UAID_107B4417FAEBAC4301_1479814206
+[2022.10.26-17.40.11:818][142]LogContentValidation: Display: Validating StaticMeshActor /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBA24301_1731208426
+[2022.10.26-17.40.11:818][142]LogContentValidation: Display: Validating StaticMeshActor /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBA24301_1962604428
+[2022.10.26-17.40.11:818][142]LogContentValidation: Display: Validating DirectionalLight /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.DirectionalLight_0
+[2022.10.26-17.40.11:818][142]LogContentValidation: Display: Validating VolumetricCloud /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.VolumetricCloud_0
+[2022.10.26-17.40.11:818][142]LogContentValidation: Display: Validating StaticMeshActor /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBA24301_1324933424
+[2022.10.26-17.40.11:818][142]LogContentValidation: Display: Validating SkyLight /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.SkyLight_1
+[2022.10.26-17.40.11:818][142]LogContentValidation: Display: Validating Moving_Platform_Button_C /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.Moving_Platform_Button_C_UAID_107B4417FAEBA54301_2145271969
+[2022.10.26-17.40.11:818][142]LogContentValidation: Display: Validating StaticMeshActor /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBA34301_1225696608
+[2022.10.26-17.40.11:818][142]LogContentValidation: Display: Validating StaticMeshActor /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBA34301_1142247607
+[2022.10.26-17.40.11:818][142]LogContentValidation: Display: Validating WorldDataLayers /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout:PersistentLevel.WorldDataLayers
+[2022.10.26-17.40.11:818][142]LogContentValidation: Display: Validating World /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout
+[2022.10.26-17.40.11:831][142]LogAutomationController: Ignoring very large delta of 2.58 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.10.26-17.41.06:537][596]Cmd: TRANSACTION UNDO
+[2022.10.26-17.41.06:537][596]LogEditorTransaction: Undo Move Elements
+[2022.10.26-17.41.07:067][615]Cmd: TRANSACTION UNDO
+[2022.10.26-17.41.07:067][615]LogEditorTransaction: Undo Clicking on Elements
+[2022.10.26-17.41.07:425][643]Cmd: TRANSACTION UNDO
+[2022.10.26-17.41.07:425][643]LogEditorTransaction: Undo Clicking on Elements
+[2022.10.26-17.41.07:818][680]Cmd: TRANSACTION UNDO
+[2022.10.26-17.41.07:818][680]LogEditorTransaction: Undo Clicking on Elements
+[2022.10.26-17.44.40:000][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.26-17.44.42:710][849]LogSlate: Window 'Save Content' being destroyed
+[2022.10.26-17.44.42:774][849]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_1_Blockout/D/JG/JC5UKNTLJM5IIIUGX2N458
+[2022.10.26-17.44.42:775][849]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/JC5UKNTLJM5IIIUGX2N4587172357048A48E63C5F615AC1A5A0F60.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_1_Blockout/D/JG/JC5UKNTLJM5IIIUGX2N458.uasset'
+[2022.10.26-17.44.42:786][849]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_1_Blockout/E/WW/ER1XEXVU4PSWGAKQY3O69E
+[2022.10.26-17.44.42:787][849]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/ER1XEXVU4PSWGAKQY3O69E5D74DBB547FB96385600E58CC9658324.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_1_Blockout/E/WW/ER1XEXVU4PSWGAKQY3O69E.uasset'
+[2022.10.26-17.44.42:798][849]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_1_Blockout/E/WI/U4CXF5BC0P9AAQJUVZ6CIW
+[2022.10.26-17.44.42:799][849]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/U4CXF5BC0P9AAQJUVZ6CIWC75A57D64CEA007975722A9E264C3B81.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_1_Blockout/E/WI/U4CXF5BC0P9AAQJUVZ6CIW.uasset'
+[2022.10.26-17.44.42:811][849]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_1_Blockout/0/06/TH20DEDO6T5U92N9OTMQP5
+[2022.10.26-17.44.42:812][849]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/TH20DEDO6T5U92N9OTMQP524C181AF4E0612705B8136823668FB1E.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_1_Blockout/0/06/TH20DEDO6T5U92N9OTMQP5.uasset'
+[2022.10.26-17.44.42:822][849]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_1_Blockout/5/4F/2N024JSBXDCER7B1CGFZ0V
+[2022.10.26-17.44.42:824][849]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/2N024JSBXDCER7B1CGFZ0V3C2443BE4D457584404551AB1F8C6F72.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_1_Blockout/5/4F/2N024JSBXDCER7B1CGFZ0V.uasset'
+[2022.10.26-17.44.42:835][849]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/JJ_Stuff/Level_1_Blockout/4/2W/N2WDXCXHD879I2P4OEZF4P
+[2022.10.26-17.44.42:836][849]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/N2WDXCXHD879I2P4OEZF4P6A788CB54374AB1DABA77481B15F653C.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/JJ_Stuff/Level_1_Blockout/4/2W/N2WDXCXHD879I2P4OEZF4P.uasset'
+[2022.10.26-17.44.42:847][849]LogAssetEditorSubsystem: Opening Asset editor for World /Game/JJ_Stuff/Level_2_Blockout.Level_2_Blockout
+[2022.10.26-17.44.42:847][849]Cmd: MAP LOAD FILE="E:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Level_2_Blockout.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.26-17.44.42:847][849]LightingResults: New page: Lighting Build
+[2022.10.26-17.44.42:847][849]LoadErrors: New page: Loading map: Level_2_Blockout.umap
+[2022.10.26-17.44.42:899][849]LogWorld: UWorld::CleanupWorld for Level_1_Blockout, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-17.44.42:899][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-17.44.42:913][849]MapCheck: New page: Map Check
+[2022.10.26-17.44.42:913][849]LightingResults: New page: Lighting Build
+[2022.10.26-17.44.42:971][849]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.26-17.44.42:975][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.10.26-17.44.42:978][849]LogWorld: UWorld::CleanupWorld for Level_2_Blockout, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-17.44.42:979][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-17.44.43:040][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.10.26-17.44.43:101][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.26-17.44.43:110][849]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_2_Blockout'.
+[2022.10.26-17.44.43:110][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-17.44.43:110][849]LogAIModule: Creating AISystem for world Level_2_Blockout
+[2022.10.26-17.44.43:111][849]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.26-17.44.43:111][849]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.10.26-17.44.43:133][849]LogWorldPartition: Display: WorldPartition initialize took 22 ms
+[2022.10.26-17.44.43:140][849]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.26-17.44.43:207][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.10.26-17.44.43:233][849]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.26-17.44.43:233][849]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.284ms to complete.
+[2022.10.26-17.44.43:233][849]LogFileHelpers: Loading map 'Level_2_Blockout' took 0.386
+[2022.10.26-17.44.43:264][849]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.26-17.44.43:265][849]LogContentValidation: Display: Validating StaticMeshActor /Game/JJ_Stuff/Level_1_Blockout.Level_1_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBA24301_1081396423
+[2022.10.26-17.44.43:304][849]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/JJ_Stuff/Level_1_Blockout.Level_1_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBA24301_1081396423'
+[2022.10.26-17.44.43:304][849]LogContentValidation: Display: Validating StaticMeshActor /Game/JJ_Stuff/Level_1_Blockout.Level_1_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBA24301_1494161425
+[2022.10.26-17.44.43:305][849]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/JJ_Stuff/Level_1_Blockout.Level_1_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBA24301_1494161425'
+[2022.10.26-17.44.43:305][849]LogContentValidation: Display: Validating StaticMeshActor /Game/JJ_Stuff/Level_1_Blockout.Level_1_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBA34301_1901419614
+[2022.10.26-17.44.43:305][849]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/JJ_Stuff/Level_1_Blockout.Level_1_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBA34301_1901419614'
+[2022.10.26-17.44.43:305][849]LogContentValidation: Display: Validating TextRenderActor /Game/JJ_Stuff/Level_1_Blockout.Level_1_Blockout:PersistentLevel.TextRenderActor_UAID_107B4417FAEB243C01_1455510855
+[2022.10.26-17.44.43:305][849]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/JJ_Stuff/Level_1_Blockout.Level_1_Blockout:PersistentLevel.TextRenderActor_UAID_107B4417FAEB243C01_1455510855'
+[2022.10.26-17.44.43:305][849]LogContentValidation: Display: Validating StaticMeshActor /Game/JJ_Stuff/Level_1_Blockout.Level_1_Blockout:PersistentLevel.StaticMeshActor_22
+[2022.10.26-17.44.43:305][849]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/JJ_Stuff/Level_1_Blockout.Level_1_Blockout:PersistentLevel.StaticMeshActor_22'
+[2022.10.26-17.44.43:305][849]LogContentValidation: Display: Validating StaticMeshActor /Game/JJ_Stuff/Level_1_Blockout.Level_1_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBA24301_1962604428
+[2022.10.26-17.44.43:306][849]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/JJ_Stuff/Level_1_Blockout.Level_1_Blockout:PersistentLevel.StaticMeshActor_UAID_107B4417FAEBA24301_1962604428'
+[2022.10.26-17.44.43:331][849]LogAutomationController: Ignoring very large delta of 3.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.10.26-17.54.40:367][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.10.26-17.54.40:371][494]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/JJ_Stuff/Level_2_Blockout' took 0.071
+[2022.10.26-17.54.40:471][494]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/JJ_Stuff/Level_1_Blockout_2/A/DB/Z0KQV5ZN6QMPORK845BKF0_Auto6
+[2022.10.26-17.54.40:472][494]LogSavePackage: Moving 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Z0KQV5ZN6QMPORK845BKF0_Auto649C113444CCD1E7292689AABD4464E0D.tmp' to 'E:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Autosaves/Game/__ExternalActors__/JJ_Stuff/Level_1_Blockout_2/A/DB/Z0KQV5ZN6QMPORK845BKF0_Auto6.uasset'
+[2022.10.26-17.54.40:473][494]LogFileHelpers: Auto-saving content packages took 0.102
