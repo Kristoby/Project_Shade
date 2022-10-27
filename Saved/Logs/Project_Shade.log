@@ -6970,3 +6970,9 @@ Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Set MovingPlatform
 [2022.10.27-14.41.15:827][886]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/EndDoorLevel28DAC81EF4F368E02A68A78838DA881BE.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/EndDoorLevel2.uasset'
 [2022.10.27-14.41.15:916][886]AssetCheck: New page: Asset Save: EndDoorLevel2
 [2022.10.27-14.41.15:916][886]LogContentValidation: Display: Validating Blueprint /Game/JJ_Stuff/EndDoorLevel2.EndDoorLevel2
+[2022.10.27-14.46.49:060][281]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.10.27-14.46.49:242][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.10.27-14.46.52:912][490]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.10.27-14.46.52:954][490]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/BP_ThirdPersonCharacter152157EB4277BDB17EFFBE941B430719.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.10.27-14.46.53:048][490]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.10.27-14.46.53:048][490]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
