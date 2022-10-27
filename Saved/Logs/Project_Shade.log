@@ -1935,3 +1935,435 @@ Continuing with the rename may require changes to fix references in code or proj
 [2022.10.27-10.25.10:481][580]LogFileHelpers: Saving map 'Level_2_Blockout' took 0.435
 [2022.10.27-10.25.10:492][580]AssetCheck: New page: Asset Save: Level_2_Blockout
 [2022.10.27-10.25.10:492][580]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/Level_2_Blockout.Level_2_Blockout
+[2022.10.27-10.26.05:110][430]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/JJ_Stuff/LeverAttempt.LeverAttempt
+[2022.10.27-10.26.05:119][430]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-10.26.05:970][430]LogTexture: Display: Waiting for textures to be ready 0/2 (/Engine/EditorResources/TilePatine_N) ...
+[2022.10.27-10.26.12:367][  4]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2022.10.27-10.27.12:755][654]BlueprintLog: New page: Compile LeverAttempt
+[2022.10.27-10.27.12:869][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.10.27-10.28.40:824][ 55]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.27-10.28.42:068][ 55]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.27-10.28.42:087][ 55]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.27-10.28.42:094][ 55]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.27-10.28.42:126][ 56]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.27-10.28.51:669][ 52]LogContentBrowser: Attempting asset rename: NewBlueprint -> Level_2_Moving_Platform
+[2022.10.27-10.28.51:711][ 52]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.27-10.29.03:086][997]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/JJ_Stuff/Level_2_Moving_Platform.Level_2_Moving_Platform
+[2022.10.27-10.29.03:086][997]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-10.29.03:713][997]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2022.10.27-10.29.12:133][623]LogSlate: Took 0.008470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.27-10.29.33:647][262]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.33:648][262]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.33:657][263]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.33:657][263]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:109][300]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:109][300]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:121][301]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:121][301]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:121][301]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:136][302]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:136][302]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:813][357]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:814][357]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:825][358]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:825][358]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:825][358]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:837][359]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:837][359]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:837][359]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:849][360]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:849][360]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:849][360]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:863][361]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:863][361]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:863][361]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:877][362]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:877][362]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:878][362]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:889][363]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:890][363]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:890][363]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:901][364]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:902][364]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:902][364]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:913][365]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:913][365]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:913][365]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:925][366]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:925][366]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:925][366]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:937][367]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:937][367]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:937][367]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:951][368]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:951][368]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:951][368]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:964][369]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:964][369]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:965][369]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:978][370]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:978][370]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:978][370]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:990][371]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:990][371]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.34:990][371]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:002][372]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:002][372]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:002][372]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:016][373]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:016][373]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:016][373]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:030][374]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:031][374]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:031][374]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:042][375]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:042][375]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:042][375]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:054][376]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:054][376]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:054][376]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:065][377]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:066][377]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:066][377]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:077][378]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:077][378]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:077][378]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:090][379]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:090][379]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:090][379]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:101][380]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:102][380]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:102][380]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:114][381]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:114][381]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:114][381]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:126][382]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:126][382]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:126][382]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:137][383]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:138][383]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:138][383]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:150][384]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:150][384]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:151][384]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:163][385]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:163][385]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:163][385]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:175][386]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:175][386]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:175][386]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:188][387]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:189][387]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:189][387]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:201][388]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:201][388]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:201][388]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:212][389]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:213][389]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:213][389]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:224][390]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:225][390]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:225][390]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:239][391]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:239][391]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:239][391]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:251][392]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:251][392]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:251][392]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:262][393]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:262][393]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:262][393]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:274][394]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:275][394]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:275][394]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:286][395]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:286][395]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:286][395]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:301][396]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:301][396]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:301][396]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:314][397]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:314][397]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:315][397]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:327][398]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:327][398]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:327][398]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:339][399]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:339][399]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:339][399]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:351][400]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:351][400]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:351][400]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:363][401]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:363][401]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:363][401]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:376][402]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:376][402]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:376][402]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:388][403]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:388][403]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:388][403]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:400][404]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:400][404]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:400][404]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:411][405]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:411][405]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:412][405]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:426][406]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:426][406]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:426][406]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:437][407]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:437][407]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:438][407]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:452][408]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:452][408]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:452][408]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:466][409]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:466][409]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:466][409]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:478][410]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:478][410]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:478][410]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:490][411]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:490][411]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:490][411]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:504][412]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.35:505][412]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.Level_2_Moving_Platform_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.10.27-10.29.45:235][165]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/JJ_Stuff/Level_2_Moving_Platform.Level_2_Moving_Platform_C
+[2022.10.27-10.29.45:235][165]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/JJ_Stuff/Level_2_Moving_Platform.Level_2_Moving_Platform_C
+[2022.10.27-10.29.45:252][165]LogActorFactory: Actor Factory spawned Blueprint /Game/JJ_Stuff/Level_2_Moving_Platform.Level_2_Moving_Platform as actor: Level_2_Moving_Platform_C /Game/ThirdPerson/Maps/Level_2_Blockout.Level_2_Blockout:PersistentLevel.Level_2_Moving_Platform_C_0
+[2022.10.27-10.29.45:253][165]LogActorFactory: Actor Factory spawned Blueprint /Game/JJ_Stuff/Level_2_Moving_Platform.Level_2_Moving_Platform as actor: Level_2_Moving_Platform_C /Game/ThirdPerson/Maps/Level_2_Blockout.Level_2_Blockout:PersistentLevel.Level_2_Moving_Platform_C_0
+[2022.10.27-10.29.45:574][185]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/JJ_Stuff/Level_2_Moving_Platform.Level_2_Moving_Platform_C
+[2022.10.27-10.29.45:574][185]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/JJ_Stuff/Level_2_Moving_Platform.Level_2_Moving_Platform_C
+[2022.10.27-10.29.45:577][185]LogActorFactory: Actor Factory spawned Blueprint /Game/JJ_Stuff/Level_2_Moving_Platform.Level_2_Moving_Platform as actor: Level_2_Moving_Platform_C /Game/ThirdPerson/Maps/Level_2_Blockout.Level_2_Blockout:PersistentLevel.Level_2_Moving_Platform_C_UAID_04D4C404EDFBE64301_1934754391
+[2022.10.27-10.29.45:578][185]LogActorFactory: Actor Factory spawned Blueprint /Game/JJ_Stuff/Level_2_Moving_Platform.Level_2_Moving_Platform as actor: Level_2_Moving_Platform_C /Game/ThirdPerson/Maps/Level_2_Blockout.Level_2_Blockout:PersistentLevel.Level_2_Moving_Platform_C_UAID_04D4C404EDFBE64301_1934754391
+[2022.10.27-10.31.25:127][840]Cmd: TRANSACTION UNDO
+[2022.10.27-10.31.25:137][840]LogEditorTransaction: Undo Scale Elements
+[2022.10.27-10.31.25:670][848]Cmd: TRANSACTION UNDO
+[2022.10.27-10.31.25:670][848]LogEditorTransaction: Undo Scale Elements
+[2022.10.27-10.31.25:968][870]Cmd: TRANSACTION UNDO
+[2022.10.27-10.31.25:968][870]LogEditorTransaction: Undo Move Elements
+[2022.10.27-10.31.26:357][900]Cmd: TRANSACTION UNDO
+[2022.10.27-10.31.26:357][900]LogEditorTransaction: Undo Move Elements
+[2022.10.27-10.31.26:649][921]Cmd: TRANSACTION UNDO
+[2022.10.27-10.31.26:649][921]LogEditorTransaction: Undo Replace component used material
+[2022.10.27-10.31.28:467][ 55]Cmd: TRANSACTION UNDO
+[2022.10.27-10.31.28:467][ 55]LogEditorTransaction: Undo Move Elements
+[2022.10.27-10.31.28:900][ 86]Cmd: TRANSACTION UNDO
+[2022.10.27-10.31.28:900][ 86]LogEditorTransaction: Undo Modify Component(s)
+[2022.10.27-10.31.29:644][139]Cmd: TRANSACTION UNDO
+[2022.10.27-10.31.29:644][139]LogEditorTransaction: Undo Modify Component(s)
+[2022.10.27-10.31.30:003][164]Cmd: TRANSACTION UNDO
+[2022.10.27-10.31.30:003][164]LogEditorTransaction: Undo Move Elements
+[2022.10.27-10.37.13:109][108]LogBlueprint: Warning: [AssetLog] /Game/JJ_Stuff/Level_2_Moving_Platform.Level_2_Moving_Platform (no disk path found): [Compiler] Pasted node  CustomEvent   conflicted with  RaiseMeUp  and was replaced as a Custom Event!
+[2022.10.27-10.38.10:538][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.10.27-10.38.10:720][907]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Level_2_Blockout/C/DV/7JQ6CLQB4TA7NSKN5DA10O_Auto2
+[2022.10.27-10.38.10:721][907]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/7JQ6CLQB4TA7NSKN5DA10O_Auto2804A8F7641BFD89AE73D08AD63D6172E.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Level_2_Blockout/C/DV/7JQ6CLQB4TA7NSKN5DA10O_Auto2.uasset'
+[2022.10.27-10.38.10:913][907]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Level_2_Blockout/A/CM/UYBI4DH7T2ODW0GBEH1OBD_Auto2
+[2022.10.27-10.38.10:913][907]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/UYBI4DH7T2ODW0GBEH1OBD_Auto25AAC97C64A3EE4B54AC80BBF2BCEA4AC.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Level_2_Blockout/A/CM/UYBI4DH7T2ODW0GBEH1OBD_Auto2.uasset'
+[2022.10.27-10.38.10:972][907]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Level_2_Blockout' took 0.533
+[2022.10.27-10.38.10:972][907]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.533
+[2022.10.27-10.38.10:983][907]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/JJ_Stuff/LeverAttempt] ([2] browsable assets)...
+[2022.10.27-10.38.10:996][907]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JJ_Stuff/LeverAttempt.LeverAttempt]
+[2022.10.27-10.38.10:996][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/JJ_Stuff/LeverAttempt]
+[2022.10.27-10.38.10:996][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JJ_Stuff/LeverAttempt" FILE="F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Autosaves/Game/JJ_Stuff/LeverAttempt_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.10.27-10.38.11:069][907]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/JJ_Stuff/LeverAttempt_Auto2
+[2022.10.27-10.38.11:070][907]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/LeverAttempt_Auto26C7EE9D5463F1083E7ACD68843A38FEE.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Autosaves/Game/JJ_Stuff/LeverAttempt_Auto2.uasset'
+[2022.10.27-10.38.11:137][907]LogFileHelpers: Auto-saving content packages took 0.166
+[2022.10.27-10.41.01:121][102]BlueprintLog: New page: Compile Level_2_Moving_Platform
+[2022.10.27-10.41.01:212][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.10.27-10.41.12:201][213]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.27-10.42.06:847][638]BlueprintLog: New page: Compile LeverAttempt
+[2022.10.27-10.42.06:922][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.10.27-10.44.59:067][262]BlueprintLog: New page: Compile LeverAttempt
+[2022.10.27-10.44.59:144][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.10.27-10.46.10:141][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JJ_Stuff/Level_2_Moving_Platform" FILE="F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Level_2_Moving_Platform.uasset" SILENT=true
+[2022.10.27-10.46.10:237][129]LogSavePackage: Moving output files for package: /Game/JJ_Stuff/Level_2_Moving_Platform
+[2022.10.27-10.46.10:237][129]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Level_2_Moving_PlatformCA14DDD043F24CF870DB9F87C33E68C3.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Level_2_Moving_Platform.uasset'
+[2022.10.27-10.46.10:293][129]AssetCheck: New page: Asset Save: Level_2_Moving_Platform
+[2022.10.27-10.46.10:293][129]LogContentValidation: Display: Validating Blueprint /Game/JJ_Stuff/Level_2_Moving_Platform.Level_2_Moving_Platform
+[2022.10.27-10.46.12:064][301]BlueprintLog: New page: Compile Level_2_Moving_Platform
+[2022.10.27-10.46.12:147][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.10.27-10.46.15:307][611]BlueprintLog: New page: Compile LeverAttempt
+[2022.10.27-10.46.15:382][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.10.27-10.46.18:381][876]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.27-10.46.18:501][876]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.27-10.46.18:501][876]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.27-10.46.18:501][876]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.27-10.46.18:501][876]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.27-10.46.18:501][876]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.27-10.46.18:501][876]LogWorldPartition: Display: GetPartitionedActors took 52 us
+[2022.10.27-10.46.18:501][876]LogWorldPartition: Display: GenerateStreaming took 298 us
+[2022.10.27-10.46.18:501][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.27-10.46.18:501][876]PIE: New page: PIE session: Level_2_Blockout (27 Oct 2022, 12:46:18)
+[2022.10.27-10.46.18:501][876]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_2_Blockout
+[2022.10.27-10.46.18:506][876]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.27-10.46.18:506][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004550s)
+[2022.10.27-10.46.18:506][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_2_Blockout.Level_2_Blockout to /Game/ThirdPerson/Maps/UEDPIE_0_Level_2_Blockout.Level_2_Blockout (0.004606s)
+[2022.10.27-10.46.18:506][876]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-10.46.18:506][876]LogAIModule: Creating AISystem for world Level_2_Blockout
+[2022.10.27-10.46.18:507][876]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.27-10.46.18:507][876]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.27-10.46.18:508][876]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.27-10.46.18:508][876]LogPlayLevel: PIE: World Init took: (0.002078s)
+[2022.10.27-10.46.18:553][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.10.27-10.46.18:554][876]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.10.27-10.46.18:554][876]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-10.46.18:554][876]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-10.46.18:554][876]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-10.46.18:554][876]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-10.46.18:554][876]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-10.46.18:554][876]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-10.46.18:554][876]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-10.46.18:554][876]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-10.46.18:555][876]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-10.46.18:555][876]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-10.46.18:555][876]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-10.46.18:573][876]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-10.46.18:601][876]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.10.27-10.46.18:601][876]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-10.46.18:601][876]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-10.46.18:601][876]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-10.46.18:603][876]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.10.27-10.46.18:603][876]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.10.27-10.46.18:604][876]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.10.27-10.46.18:604][876]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.10.27-10.46.18:604][876]LogInit: FAudioDevice initialized.
+[2022.10.27-10.46.18:604][876]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level_2_Blockout'.
+[2022.10.27-10.46.18:617][876]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.27-10.46.18:619][876]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_2_Blockout.Level_2_Blockout up for play (max tick rate 0) at 2022.10.27-11.46.18
+[2022.10.27-10.46.18:619][876]LogWorld: Bringing up level for play took: 0.001978
+[2022.10.27-10.46.18:621][876]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2022.10.27-10.46.18:624][876]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1985.000 Y=6680.000 Z=1002.013
+[2022.10.27-10.46.18:624][876]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.27-10.46.18:625][876]PIE: Server logged in
+[2022.10.27-10.46.18:625][876]PIE: Play in editor total start time 0.146 seconds.
+[2022.10.27-10.46.55:381][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-10.46.55:381][829]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_2_Blockout
+[2022.10.27-10.46.55:381][829]LogWorld: UWorld::CleanupWorld for Level_2_Blockout, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-10.46.55:381][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-10.46.55:398][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.27-10.46.55:403][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-10.46.55:450][829]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-10.46.55:450][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.10.27-10.46.55:451][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.10.27-10.46.55:455][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-10.46.55:458][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.10.27-10.46.55:589][830]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.10.27-10.47.12:518][408]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.10.27-10.47.12:889][408]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.10.27-10.48.28:691][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JJ_Stuff/LeverAttempt" FILE="F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/LeverAttempt.uasset" SILENT=true
+[2022.10.27-10.48.28:793][414]LogSavePackage: Moving output files for package: /Game/JJ_Stuff/LeverAttempt
+[2022.10.27-10.48.28:832][414]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/LeverAttempt9E0C80C44F87FC4AD8274D82A56AE8A9.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/LeverAttempt.uasset'
+[2022.10.27-10.48.28:923][414]AssetCheck: New page: Asset Save: LeverAttempt
+[2022.10.27-10.48.28:923][414]LogContentValidation: Display: Validating Blueprint /Game/JJ_Stuff/LeverAttempt.LeverAttempt
+[2022.10.27-10.48.30:470][571]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.27-10.48.30:593][571]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.27-10.48.30:593][571]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.27-10.48.30:593][571]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.27-10.48.30:593][571]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.27-10.48.30:593][571]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.27-10.48.30:593][571]LogWorldPartition: Display: GetPartitionedActors took 52 us
+[2022.10.27-10.48.30:593][571]LogWorldPartition: Display: GenerateStreaming took 326 us
+[2022.10.27-10.48.30:593][571]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.27-10.48.30:594][571]LogPlayLevel: [PlayLevel] Compiling LeverAttempt before play...
+[2022.10.27-10.48.30:717][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.10.27-10.48.30:719][571]LogPlayLevel: PlayLevel: Blueprint regeneration took 125 ms (1 blueprints)
+[2022.10.27-10.48.30:719][571]PIE: New page: PIE session: Level_2_Blockout (27 Oct 2022, 12:48:30)
+[2022.10.27-10.48.30:721][571]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_2_Blockout
+[2022.10.27-10.48.30:725][571]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.27-10.48.30:726][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004360s)
+[2022.10.27-10.48.30:726][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_2_Blockout.Level_2_Blockout to /Game/ThirdPerson/Maps/UEDPIE_0_Level_2_Blockout.Level_2_Blockout (0.004422s)
+[2022.10.27-10.48.30:726][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-10.48.30:726][571]LogAIModule: Creating AISystem for world Level_2_Blockout
+[2022.10.27-10.48.30:726][571]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.27-10.48.30:726][571]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.27-10.48.30:728][571]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.27-10.48.30:728][571]LogPlayLevel: PIE: World Init took: (0.002043s)
+[2022.10.27-10.48.30:784][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.10.27-10.48.30:788][571]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.10.27-10.48.30:788][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-10.48.30:788][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-10.48.30:788][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-10.48.30:788][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-10.48.30:788][571]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-10.48.30:788][571]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-10.48.30:788][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-10.48.30:788][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-10.48.30:788][571]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-10.48.30:788][571]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-10.48.30:788][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-10.48.30:790][571]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-10.48.30:810][571]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.10.27-10.48.30:810][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-10.48.30:811][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-10.48.30:811][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-10.48.30:811][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.10.27-10.48.30:811][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.10.27-10.48.30:813][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.10.27-10.48.30:813][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.10.27-10.48.30:813][571]LogInit: FAudioDevice initialized.
+[2022.10.27-10.48.30:813][571]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level_2_Blockout'.
+[2022.10.27-10.48.30:825][571]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.27-10.48.30:826][571]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_2_Blockout.Level_2_Blockout up for play (max tick rate 0) at 2022.10.27-11.48.30
+[2022.10.27-10.48.30:827][571]LogWorld: Bringing up level for play took: 0.001756
+[2022.10.27-10.48.30:828][571]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.10.27-10.48.30:831][571]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1985.000 Y=6680.000 Z=1002.013
+[2022.10.27-10.48.30:831][571]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.27-10.48.30:831][571]PIE: Server logged in
+[2022.10.27-10.48.30:832][571]PIE: Play in editor total start time 0.26 seconds.
+[2022.10.27-10.49.10:090][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-10.49.10:090][881]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_2_Blockout
+[2022.10.27-10.49.10:090][881]LogWorld: UWorld::CleanupWorld for Level_2_Blockout, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-10.49.10:090][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-10.49.10:108][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.27-10.49.10:127][881]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.10.27-10.49.17:144][881]LogStats: FPlatformStackWalk::StackWalkAndDump -  7.017 s
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: === Handled ensure: ===
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: 
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: Ensure condition failed: IsPackageExternal() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Classes\GameFramework\Actor.h] [Line: 2228]
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: 
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: Stack: 
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: [Callstack] 0x00007ffcb7c05fa6 UnrealEditor-Engine.dll!UWorldPartitionRuntimeHash::ForceExternalActorLevelReference() [D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\WorldPartition\WorldPartitionRuntimeHash.cpp:49]
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: [Callstack] 0x00007ffcb7c1f705 UnrealEditor-Engine.dll!UWorldPartition::OnEndPlay() [D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\WorldPartition\WorldPartition.cpp:346]
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: [Callstack] 0x00007ffcb7c006aa UnrealEditor-Engine.dll!TBaseUObjectMethodDelegateInstance<0,UWorldPartition,void __cdecl(void),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:611]
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: [Callstack] 0x00007ffcb32cebed UnrealEditor-UnrealEd.dll!TMulticastDelegate<void __cdecl(void),FDefaultDelegateUserPolicy>::Broadcast() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateSignatureImpl.inl:967]
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: [Callstack] 0x00007ffcb3dc0c73 UnrealEditor-UnrealEd.dll!UEditorEngine::EndPlayMap() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp:335]
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: [Callstack] 0x00007ffcb37afa40 UnrealEditor-UnrealEd.dll!UEditorEngine::Tick() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorEngine.cpp:2097]
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: [Callstack] 0x00007ffcb413aac6 UnrealEditor-UnrealEd.dll!UUnrealEdEngine::Tick() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\UnrealEdEngine.cpp:474]
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: [Callstack] 0x00007ff6709682f6 UnrealEditor.exe!FEngineLoop::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:5215]
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: [Callstack] 0x00007ff670980d9c UnrealEditor.exe!GuardedMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:183]
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: [Callstack] 0x00007ff670980e8a UnrealEditor.exe!GuardedMainWrapper() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:147]
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: [Callstack] 0x00007ff670983c4d UnrealEditor.exe!LaunchWindowsStartup() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:283]
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: [Callstack] 0x00007ff670995564 UnrealEditor.exe!WinMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:330]
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: [Callstack] 0x00007ff670998736 UnrealEditor.exe!__scrt_common_main_seh() [d:\a01\_work\6\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: [Callstack] 0x00007ffd08f87034 KERNEL32.DLL!UnknownFunction []
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: [Callstack] 0x00007ffd090c26a1 ntdll.dll!UnknownFunction []
+[2022.10.27-10.49.17:144][881]LogOutputDevice: Error: 
+[2022.10.27-10.49.17:157][881]LogStats:                SubmitErrorReport -  0.000 s
+[2022.10.27-10.49.27:486][881]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [9058ms] waiting for h/w. InstanceID=1
+[2022.10.27-10.49.27:487][881]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [9048ms] waiting for h/w. InstanceID=7
+[2022.10.27-10.49.27:487][881]LogStats:                    SendNewReport - 10.329 s
+[2022.10.27-10.49.27:487][881]LogStats:             FDebug::EnsureFailed - 17.369 s
+[2022.10.27-10.49.27:493][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-10.49.27:547][881]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-10.49.27:547][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.10.27-10.49.27:559][881]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12764
+[2022.10.27-10.49.27:559][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.10.27-10.49.27:560][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-10.49.27:564][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.10.27-10.49.27:711][882]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.10.27-10.49.27:713][882]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11924
+[2022.10.27-10.49.27:838][883]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0a36b000-d050-44ed-abae-8d48108afbd7}, Name=Speakers (Realtek High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=12.71
+[2022.10.27-10.49.27:843][883]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.27-10.49.27:854][884]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.27-10.49.30:612][144]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Level_2_Blockout/C/DV/7JQ6CLQB4TA7NSKN5DA10O
+[2022.10.27-10.49.30:656][144]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/7JQ6CLQB4TA7NSKN5DA10O4C69C7864EF862BCD2726E9996C35F37.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/ThirdPerson/Maps/Level_2_Blockout/C/DV/7JQ6CLQB4TA7NSKN5DA10O.uasset'
+[2022.10.27-10.49.30:786][144]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Level_2_Blockout/A/CM/UYBI4DH7T2ODW0GBEH1OBD
+[2022.10.27-10.49.30:786][144]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/UYBI4DH7T2ODW0GBEH1OBDCB1784E147C19842577FD68BA9CAD2FB.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/ThirdPerson/Maps/Level_2_Blockout/A/CM/UYBI4DH7T2ODW0GBEH1OBD.uasset'
+[2022.10.27-10.49.30:893][144]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.27-10.49.30:893][144]LogContentValidation: Display: Validating Level_2_Moving_Platform_C /Game/ThirdPerson/Maps/Level_2_Blockout.Level_2_Blockout:PersistentLevel.Level_2_Moving_Platform_C_UAID_04D4C404EDFBE64301_1934754391
+[2022.10.27-10.49.30:893][144]LogContentValidation: Display: Validating LeverAttempt_C /Game/ThirdPerson/Maps/Level_2_Blockout.Level_2_Blockout:PersistentLevel.LeverAttempt_C_UAID_FC349712AB12E14301_1403862511
