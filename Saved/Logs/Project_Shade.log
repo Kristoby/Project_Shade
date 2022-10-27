@@ -1894,3 +1894,44 @@ Continuing with the rename may require changes to fix references in code or proj
 [2022.10.27-10.24.00:543][394]LogHttp: Warning: 000006AF89BF8200: libcurl info message cache 6 (necessary data rewind wasn't possible)
 [2022.10.27-10.24.00:543][394]LogHttp: Warning: 000006AF89BF8200: libcurl info message cache 7 (Closing connection 7)
 [2022.10.27-10.24.00:545][394]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B90335471-454D-62DB-7508-46BC67509744%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=657a321a433f5ba4355396a8c34cc381%7C%7Cfcaf8795-bcc5-4f7e-9f7d-f7137a907949&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.27-10.24.31:733][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.10.27-10.25.06:852][405]LogSlate: Window 'Save Content' being destroyed
+[2022.10.27-10.25.06:889][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sam_Stuff/UI/MainMenu/MainMenu" FILE="F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/Sam_Stuff/UI/MainMenu/MainMenu.uasset" SILENT=true
+[2022.10.27-10.25.06:963][405]LogSavePackage: Moving output files for package: /Game/Sam_Stuff/UI/MainMenu/MainMenu
+[2022.10.27-10.25.07:003][405]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/MainMenuFE507F54424040A1BE3ACAAAB61244D0.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/Sam_Stuff/UI/MainMenu/MainMenu.uasset'
+[2022.10.27-10.25.07:083][405]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/Level_2_Blockout.Level_2_Blockout
+[2022.10.27-10.25.07:083][405]Cmd: MAP LOAD FILE="F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/ThirdPerson/Maps/Level_2_Blockout.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.27-10.25.07:083][405]LightingResults: New page: Lighting Build
+[2022.10.27-10.25.07:083][405]LoadErrors: New page: Loading map: Level_2_Blockout.umap
+[2022.10.27-10.25.07:098][405]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-10.25.07:107][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-10.25.07:107][405]MapCheck: New page: Map Check
+[2022.10.27-10.25.07:107][405]LightingResults: New page: Lighting Build
+[2022.10.27-10.25.07:138][405]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-10.25.07:141][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.10.27-10.25.07:143][405]LogWorld: UWorld::CleanupWorld for Level_1_Blockout, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-10.25.07:143][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-10.25.07:144][405]LogWorld: UWorld::CleanupWorld for Level_2_Blockout, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-10.25.07:144][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-10.25.07:178][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.10.27-10.25.07:211][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.10.27-10.25.07:217][405]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_2_Blockout'.
+[2022.10.27-10.25.07:217][405]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-10.25.07:218][405]LogAIModule: Creating AISystem for world Level_2_Blockout
+[2022.10.27-10.25.07:226][405]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.27-10.25.07:226][405]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.10.27-10.25.07:255][405]LogWorldPartition: Display: WorldPartition initialize took 28 ms
+[2022.10.27-10.25.07:483][405]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.27-10.25.07:520][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.10.27-10.25.07:687][405]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.27-10.25.07:687][405]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.25ms to complete.
+[2022.10.27-10.25.07:687][405]LogFileHelpers: Loading map 'Level_2_Blockout' took 0.604
+[2022.10.27-10.25.07:858][405]AssetCheck: New page: Asset Save: MainMenu
+[2022.10.27-10.25.07:858][405]LogContentValidation: Display: Validating WidgetBlueprint /Game/Sam_Stuff/UI/MainMenu/MainMenu.MainMenu
+[2022.10.27-10.25.10:047][580]LogFileHelpers: No new changes to save!
+[2022.10.27-10.25.10:123][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.10.27-10.25.10:180][580]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Level_2_Blockout
+[2022.10.27-10.25.10:222][580]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Level_2_BlockoutFF44446741834D1DEC32D6B5BA07D048.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/ThirdPerson/Maps/Level_2_Blockout.umap'
+[2022.10.27-10.25.10:481][580]LogFileHelpers: Saving map 'Level_2_Blockout' took 0.435
+[2022.10.27-10.25.10:492][580]AssetCheck: New page: Asset Save: Level_2_Blockout
+[2022.10.27-10.25.10:492][580]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/Level_2_Blockout.Level_2_Blockout
