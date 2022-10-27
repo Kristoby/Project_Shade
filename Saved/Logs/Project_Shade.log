@@ -6664,3 +6664,229 @@ Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Set MovingPlatform
 [2022.10.27-14.12.22:826][870]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/OIKNQLDNU6QLZPRDVWFSPJ423E58234617F196CD10FCB755860893.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/0/ZN/OIKNQLDNU6QLZPRDVWFSPJ.uasset'
 [2022.10.27-14.12.22:928][870]AssetCheck: New page: Asset Save: Box_Kill_Skeleton_C_UAID_04D4C404EDFBF34301_1137597713
 [2022.10.27-14.12.22:928][870]LogContentValidation: Display: Validating Box_Kill_Skeleton_C /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.Box_Kill_Skeleton_C_UAID_04D4C404EDFBF34301_1137597713
+[2022.10.27-14.13.50:249][580]BlueprintLog: New page: Compile Box_Kill_Skeleton
+[2022.10.27-14.13.50:360][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.10.27-14.17.07:778][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JJ_Stuff/Box_Kill_Skeleton" FILE="F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Box_Kill_Skeleton.uasset" SILENT=true
+[2022.10.27-14.17.07:836][ 80]LogSavePackage: Moving output files for package: /Game/JJ_Stuff/Box_Kill_Skeleton
+[2022.10.27-14.17.07:876][ 80]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Box_Kill_Skeleton587A7A0C4152466DA8F6159A95EEDC35.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Box_Kill_Skeleton.uasset'
+[2022.10.27-14.17.07:968][ 80]AssetCheck: New page: Asset Save: Box_Kill_Skeleton
+[2022.10.27-14.17.07:968][ 80]LogContentValidation: Display: Validating Blueprint /Game/JJ_Stuff/Box_Kill_Skeleton.Box_Kill_Skeleton
+[2022.10.27-14.17.41:873][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.10.27-14.17.42:010][585]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/0/ZN/OIKNQLDNU6QLZPRDVWFSPJ_Auto0
+[2022.10.27-14.17.42:011][585]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/OIKNQLDNU6QLZPRDVWFSPJ_Auto0C7FEA46947F4A861E54FFEAB2B2F8755.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/0/ZN/OIKNQLDNU6QLZPRDVWFSPJ_Auto0.uasset'
+[2022.10.27-14.17.42:074][585]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Level_3_Blockout' took 0.285
+[2022.10.27-14.17.42:074][585]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.285
+[2022.10.27-14.18.36:716][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JJ_Stuff/Box_Kill_Skeleton" FILE="F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Box_Kill_Skeleton.uasset" SILENT=true
+[2022.10.27-14.18.36:778][807]LogSavePackage: Moving output files for package: /Game/JJ_Stuff/Box_Kill_Skeleton
+[2022.10.27-14.18.36:822][807]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Box_Kill_Skeleton24B29D8A41037F35D08EFD82B12E593E.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Box_Kill_Skeleton.uasset'
+[2022.10.27-14.18.36:907][807]AssetCheck: New page: Asset Save: Box_Kill_Skeleton
+[2022.10.27-14.18.36:907][807]LogContentValidation: Display: Validating Blueprint /Game/JJ_Stuff/Box_Kill_Skeleton.Box_Kill_Skeleton
+[2022.10.27-14.18.47:712][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.10.27-14.18.49:046][607]LogSlate: Window 'Save Content' being destroyed
+[2022.10.27-14.18.49:153][607]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/0/ZN/OIKNQLDNU6QLZPRDVWFSPJ
+[2022.10.27-14.18.49:200][607]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/OIKNQLDNU6QLZPRDVWFSPJ0B374547423A0E0794A9BE978A65554F.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/0/ZN/OIKNQLDNU6QLZPRDVWFSPJ.uasset'
+[2022.10.27-14.18.49:292][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JJ_Stuff/Level_2_Moving_Platform" FILE="F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Level_2_Moving_Platform.uasset" SILENT=true
+[2022.10.27-14.18.49:373][607]LogSavePackage: Moving output files for package: /Game/JJ_Stuff/Level_2_Moving_Platform
+[2022.10.27-14.18.49:420][607]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Level_2_Moving_Platform3B5F1A0A4405EF1DE52C1CAB868955EB.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Level_2_Moving_Platform.uasset'
+[2022.10.27-14.18.49:501][607]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/Level_1_Blockout.Level_1_Blockout
+[2022.10.27-14.18.49:501][607]Cmd: MAP LOAD FILE="F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/ThirdPerson/Maps/Level_1_Blockout.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.27-14.18.49:501][607]LightingResults: New page: Lighting Build
+[2022.10.27-14.18.49:501][607]LoadErrors: New page: Loading map: Level_1_Blockout.umap
+[2022.10.27-14.18.49:530][607]LogWorld: UWorld::CleanupWorld for Level_3_Blockout, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-14.18.49:531][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-14.18.49:629][607]MapCheck: New page: Map Check
+[2022.10.27-14.18.49:629][607]LightingResults: New page: Lighting Build
+[2022.10.27-14.18.49:701][607]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-14.18.49:707][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.10.27-14.18.49:709][607]LogWorld: UWorld::CleanupWorld for Level_1_Blockout, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-14.18.49:709][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-14.18.49:783][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.10.27-14.18.49:858][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.10.27-14.18.49:892][607]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_1_Blockout'.
+[2022.10.27-14.18.49:892][607]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-14.18.49:893][607]LogAIModule: Creating AISystem for world Level_1_Blockout
+[2022.10.27-14.18.49:897][607]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.27-14.18.49:897][607]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.10.27-14.18.50:026][607]LogWorldPartition: Display: WorldPartition initialize took 129 ms
+[2022.10.27-14.18.50:031][607]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.27-14.18.50:110][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.10.27-14.18.50:283][607]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.27-14.18.50:283][607]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.238ms to complete.
+[2022.10.27-14.18.50:283][607]LogFileHelpers: Loading map 'Level_1_Blockout' took 0.782
+[2022.10.27-14.18.50:485][607]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.27-14.18.50:485][607]LogContentValidation: Display: Validating Blueprint /Game/JJ_Stuff/Level_2_Moving_Platform.Level_2_Moving_Platform
+[2022.10.27-14.18.50:486][607]LogContentValidation: Display: Validating Box_Kill_Skeleton_C /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.Box_Kill_Skeleton_C_UAID_04D4C404EDFBF34301_1137597713
+[2022.10.27-14.18.50:493][607]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.Box_Kill_Skeleton_C_UAID_04D4C404EDFBF34301_1137597713'
+[2022.10.27-14.18.50:508][608]LogNavigationDataBuild: Navigation data generation finished in /Game/ThirdPerson/Maps/Level_1_Blockout.
+[2022.10.27-14.20.45:676][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.10.27-14.20.45:679][995]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout
+[2022.10.27-14.20.45:679][995]Cmd: MAP LOAD FILE="F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/ThirdPerson/Maps/Level_3_Blockout.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.27-14.20.45:679][995]LightingResults: New page: Lighting Build
+[2022.10.27-14.20.45:679][995]LoadErrors: New page: Loading map: Level_3_Blockout.umap
+[2022.10.27-14.20.45:682][995]LogWorld: UWorld::CleanupWorld for Level_1_Blockout, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-14.20.45:682][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-14.20.45:770][995]MapCheck: New page: Map Check
+[2022.10.27-14.20.45:770][995]LightingResults: New page: Lighting Build
+[2022.10.27-14.20.45:842][995]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-14.20.45:846][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.10.27-14.20.45:850][995]LogWorld: UWorld::CleanupWorld for Level_3_Blockout, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-14.20.45:850][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-14.20.45:927][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.10.27-14.20.46:004][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.10.27-14.20.46:011][995]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_3_Blockout'.
+[2022.10.27-14.20.46:011][995]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-14.20.46:011][995]LogAIModule: Creating AISystem for world Level_3_Blockout
+[2022.10.27-14.20.46:011][995]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.27-14.20.46:011][995]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.10.27-14.20.46:045][995]LogWorldPartition: Display: WorldPartition initialize took 33 ms
+[2022.10.27-14.20.46:055][995]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.27-14.20.46:132][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.10.27-14.20.46:306][995]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.27-14.20.46:306][995]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.24ms to complete.
+[2022.10.27-14.20.46:306][995]LogFileHelpers: Loading map 'Level_3_Blockout' took 0.627
+[2022.10.27-14.20.59:183][ 60]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.10.27-14.20.59:350][ 60]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.10.27-14.22.01:436][157]LogSlate: Window 'New Profile' being destroyed
+[2022.10.27-14.23.04:277][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JJ_Stuff/Box_Kill_Skeleton" FILE="F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Box_Kill_Skeleton.uasset" SILENT=true
+[2022.10.27-14.23.04:331][619]LogSavePackage: Moving output files for package: /Game/JJ_Stuff/Box_Kill_Skeleton
+[2022.10.27-14.23.04:373][619]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Box_Kill_SkeletonEF6752E145CCFC56CDE9F8BDC93E5D65.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Box_Kill_Skeleton.uasset'
+[2022.10.27-14.23.04:461][619]AssetCheck: New page: Asset Save: Box_Kill_Skeleton
+[2022.10.27-14.23.04:461][619]LogContentValidation: Display: Validating Blueprint /Game/JJ_Stuff/Box_Kill_Skeleton.Box_Kill_Skeleton
+[2022.10.27-14.23.22:125][861]BlueprintLog: New page: Compile Box_Kill_Skeleton
+[2022.10.27-14.23.22:240][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.10.27-14.23.39:092][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JJ_Stuff/Box_Kill_Skeleton" FILE="F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Box_Kill_Skeleton.uasset" SILENT=true
+[2022.10.27-14.23.39:151][988]LogSavePackage: Moving output files for package: /Game/JJ_Stuff/Box_Kill_Skeleton
+[2022.10.27-14.23.39:193][988]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Box_Kill_Skeleton62ACFF774A542CB0CB79B3AED29299B4.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Box_Kill_Skeleton.uasset'
+[2022.10.27-14.23.39:276][988]AssetCheck: New page: Asset Save: Box_Kill_Skeleton
+[2022.10.27-14.23.39:276][988]LogContentValidation: Display: Validating Blueprint /Game/JJ_Stuff/Box_Kill_Skeleton.Box_Kill_Skeleton
+[2022.10.27-14.24.03:691][319]LogSlate: Window 'New Profile' being destroyed
+[2022.10.27-14.24.07:390][553]BlueprintLog: New page: Compile Box_Kill_Skeleton
+[2022.10.27-14.24.07:512][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.10.27-14.25.05:101][207]LogSlate: Window 'New Channel' being destroyed
+[2022.10.27-14.25.08:780][429]BlueprintLog: New page: Compile Box_Kill_Skeleton
+[2022.10.27-14.25.08:890][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.10.27-14.25.17:390][ 24]BlueprintLog: New page: Compile Box_Kill_Skeleton
+[2022.10.27-14.25.17:501][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.10.27-14.25.20:977][263]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.27-14.25.21:095][263]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.27-14.25.21:095][263]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.27-14.25.21:095][263]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.27-14.25.21:095][263]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.27-14.25.21:095][263]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.27-14.25.21:095][263]LogWorldPartition: Display: GetPartitionedActors took 56 us
+[2022.10.27-14.25.21:096][263]LogWorldPartition: Display: GenerateStreaming took 366 us
+[2022.10.27-14.25.21:096][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.27-14.25.21:096][263]PIE: New page: PIE session: Level_3_Blockout (27 Oct 2022, 16:25:21)
+[2022.10.27-14.25.21:096][263]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_3_Blockout
+[2022.10.27-14.25.21:102][263]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.27-14.25.21:102][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005439s)
+[2022.10.27-14.25.21:102][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout to /Game/ThirdPerson/Maps/UEDPIE_0_Level_3_Blockout.Level_3_Blockout (0.005497s)
+[2022.10.27-14.25.21:102][263]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-14.25.21:102][263]LogAIModule: Creating AISystem for world Level_3_Blockout
+[2022.10.27-14.25.21:103][263]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.27-14.25.21:103][263]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.27-14.25.21:104][263]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.27-14.25.21:104][263]LogPlayLevel: PIE: World Init took: (0.002406s)
+[2022.10.27-14.25.21:185][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.10.27-14.25.21:187][263]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2022.10.27-14.25.21:187][263]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-14.25.21:187][263]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-14.25.21:187][263]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-14.25.21:187][263]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-14.25.21:187][263]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-14.25.21:187][263]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-14.25.21:187][263]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-14.25.21:187][263]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-14.25.21:187][263]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-14.25.21:187][263]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-14.25.21:187][263]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-14.25.21:189][263]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-14.25.21:211][263]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.10.27-14.25.21:212][263]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-14.25.21:212][263]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-14.25.21:212][263]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-14.25.21:214][263]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2022.10.27-14.25.21:214][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2022.10.27-14.25.21:216][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2022.10.27-14.25.21:216][263]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2022.10.27-14.25.21:216][263]LogInit: FAudioDevice initialized.
+[2022.10.27-14.25.21:216][263]LogAudio: Display: Audio Device (ID: 44) registered with world 'Level_3_Blockout'.
+[2022.10.27-14.25.21:229][263]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.27-14.25.21:231][263]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_3_Blockout.Level_3_Blockout up for play (max tick rate 0) at 2022.10.27-15.25.21
+[2022.10.27-14.25.21:231][263]LogWorld: Bringing up level for play took: 0.002278
+[2022.10.27-14.25.21:233][263]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2022.10.27-14.25.21:237][263]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-715.000 Y=1096.000 Z=89.650
+[2022.10.27-14.25.21:237][263]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.27-14.25.21:237][263]PIE: Server logged in
+[2022.10.27-14.25.21:238][263]PIE: Play in editor total start time 0.164 seconds.
+[2022.10.27-14.25.28:767][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-14.25.28:767][862]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_3_Blockout
+[2022.10.27-14.25.28:767][862]LogWorld: UWorld::CleanupWorld for Level_3_Blockout, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-14.25.28:767][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-14.25.28:777][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.27-14.25.28:784][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-14.25.28:862][862]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-14.25.28:862][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2022.10.27-14.25.28:863][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2022.10.27-14.25.28:867][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-14.25.28:871][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.10.27-14.25.28:987][863]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2022.10.27-14.26.36:109][577]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/0/ZN/OIKNQLDNU6QLZPRDVWFSPJ
+[2022.10.27-14.26.36:153][577]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/OIKNQLDNU6QLZPRDVWFSPJB518FEAF4C59E0F6A1B86E87181E7D22.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/0/ZN/OIKNQLDNU6QLZPRDVWFSPJ.uasset'
+[2022.10.27-14.26.36:257][577]AssetCheck: New page: Asset Save: Box_Kill_Skeleton_C_UAID_04D4C404EDFBF34301_1137597713
+[2022.10.27-14.26.36:257][577]LogContentValidation: Display: Validating Box_Kill_Skeleton_C /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.Box_Kill_Skeleton_C_UAID_04D4C404EDFBF34301_1137597713
+[2022.10.27-14.26.37:763][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JJ_Stuff/Box_Kill_Skeleton" FILE="F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Box_Kill_Skeleton.uasset" SILENT=true
+[2022.10.27-14.26.37:826][679]LogSavePackage: Moving output files for package: /Game/JJ_Stuff/Box_Kill_Skeleton
+[2022.10.27-14.26.37:867][679]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Box_Kill_Skeleton01612F724F8DBE4CBF18519E68C355FC.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Box_Kill_Skeleton.uasset'
+[2022.10.27-14.26.37:951][679]AssetCheck: New page: Asset Save: Box_Kill_Skeleton
+[2022.10.27-14.26.37:952][679]LogContentValidation: Display: Validating Blueprint /Game/JJ_Stuff/Box_Kill_Skeleton.Box_Kill_Skeleton
+[2022.10.27-14.27.15:604][244]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.27-14.27.16:612][244]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.27-14.27.16:621][244]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.27-14.27.16:628][244]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.27-14.27.16:646][245]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.27-14.27.47:782][382]LogContentBrowser: Attempting asset rename: NewBlueprint -> Killer_Box_Level_3
+[2022.10.27-14.27.47:787][382]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.27-14.27.50:737][578]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/JJ_Stuff/Killer_Box_Level_3.Killer_Box_Level_3
+[2022.10.27-14.27.50:737][578]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-14.27.51:360][578]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2022.10.27-14.28.41:950][105]LogEditorTransaction: Undo Modify Component(s)
+[2022.10.27-14.28.50:918][709]BlueprintLog: New page: Compile Killer_Box_Level_3
+[2022.10.27-14.28.51:047][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.10.27-14.28.54:213][905]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/JJ_Stuff/Killer_Box_Level_3.Killer_Box_Level_3_C
+[2022.10.27-14.28.54:213][905]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/JJ_Stuff/Killer_Box_Level_3.Killer_Box_Level_3_C
+[2022.10.27-14.28.54:214][905]LogActorFactory: Actor Factory spawned Blueprint /Game/JJ_Stuff/Killer_Box_Level_3.Killer_Box_Level_3 as actor: Killer_Box_Level_3_C /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.Killer_Box_Level_3_C_0
+[2022.10.27-14.28.54:215][905]LogActorFactory: Actor Factory spawned Blueprint /Game/JJ_Stuff/Killer_Box_Level_3.Killer_Box_Level_3 as actor: Killer_Box_Level_3_C /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.Killer_Box_Level_3_C_0
+[2022.10.27-14.28.55:986][  6]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/JJ_Stuff/Killer_Box_Level_3.Killer_Box_Level_3_C
+[2022.10.27-14.28.55:986][  6]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/JJ_Stuff/Killer_Box_Level_3.Killer_Box_Level_3_C
+[2022.10.27-14.28.55:989][  6]LogActorFactory: Actor Factory spawned Blueprint /Game/JJ_Stuff/Killer_Box_Level_3.Killer_Box_Level_3 as actor: Killer_Box_Level_3_C /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.Killer_Box_Level_3_C_UAID_04D4C404EDFBF44301_1252779890
+[2022.10.27-14.28.55:990][  6]LogActorFactory: Actor Factory spawned Blueprint /Game/JJ_Stuff/Killer_Box_Level_3.Killer_Box_Level_3 as actor: Killer_Box_Level_3_C /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.Killer_Box_Level_3_C_UAID_04D4C404EDFBF44301_1252779890
+[2022.10.27-14.29.14:519][274]LogEditorTransaction: Undo Modify Component(s)
+[2022.10.27-14.30.53:778][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.10.27-14.30.53:853][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/0/BE/4Y6AQ3CAYYZDTOXRHEZ2RM_Auto1
+[2022.10.27-14.30.53:853][277]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/4Y6AQ3CAYYZDTOXRHEZ2RM_Auto1B6EC33DA438478462FB9ADAA0437EBF3.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/0/BE/4Y6AQ3CAYYZDTOXRHEZ2RM_Auto1.uasset'
+[2022.10.27-14.30.53:911][277]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Level_3_Blockout' took 0.219
+[2022.10.27-14.30.53:911][277]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.219
+[2022.10.27-14.31.17:178][965]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/0/BE/4Y6AQ3CAYYZDTOXRHEZ2RM
+[2022.10.27-14.31.17:178][965]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/4Y6AQ3CAYYZDTOXRHEZ2RMAA2FE67C49493D04E39CA4B22C84FB5C.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/0/BE/4Y6AQ3CAYYZDTOXRHEZ2RM.uasset'
+[2022.10.27-14.31.17:286][965]AssetCheck: New page: Asset Save: Killer_Box_Level_3_C_UAID_04D4C404EDFBF44301_1252779890
+[2022.10.27-14.31.17:286][965]LogContentValidation: Display: Validating Killer_Box_Level_3_C /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.Killer_Box_Level_3_C_UAID_04D4C404EDFBF44301_1252779890
+[2022.10.27-14.31.34:922][354]BlueprintLog: New page: Compile EndDoorLevel1
+[2022.10.27-14.31.35:040][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.10.27-14.31.48:163][369]BlueprintLog: New page: Compile EndDoorLevel1
+[2022.10.27-14.31.48:282][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.10.27-14.31.57:747][ 98]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/JJ_Stuff/EndDoorLevel2.EndDoorLevel2
+[2022.10.27-14.31.57:747][ 98]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-14.32.02:371][399]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2022.10.27-14.32.25:177][ 34]BlueprintLog: New page: Compile EndDoorLevel2
+[2022.10.27-14.32.25:341][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.10.27-14.32.40:174][ 95]BlueprintLog: New page: Compile EndDoorLevel2
+[2022.10.27-14.32.40:305][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.10.27-14.33.34:316][ 13]LogEditorViewport: Clicking Background
+[2022.10.27-14.34.08:319][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JJ_Stuff/Killer_Box_Level_3" FILE="F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Killer_Box_Level_3.uasset" SILENT=true
+[2022.10.27-14.34.08:374][302]LogSavePackage: Moving output files for package: /Game/JJ_Stuff/Killer_Box_Level_3
+[2022.10.27-14.34.08:374][302]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Killer_Box_Level_317E7F91B440F152BF631A7AA0A742866.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Killer_Box_Level_3.uasset'
+[2022.10.27-14.34.08:437][302]AssetCheck: New page: Asset Save: Killer_Box_Level_3
+[2022.10.27-14.34.08:437][302]LogContentValidation: Display: Validating Blueprint /Game/JJ_Stuff/Killer_Box_Level_3.Killer_Box_Level_3
+[2022.10.27-14.34.09:826][389]BlueprintLog: New page: Compile Killer_Box_Level_3
+[2022.10.27-14.34.10:007][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
