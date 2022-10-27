@@ -6890,3 +6890,28 @@ Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Set MovingPlatform
 [2022.10.27-14.34.08:437][302]LogContentValidation: Display: Validating Blueprint /Game/JJ_Stuff/Killer_Box_Level_3.Killer_Box_Level_3
 [2022.10.27-14.34.09:826][389]BlueprintLog: New page: Compile Killer_Box_Level_3
 [2022.10.27-14.34.10:007][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.10.27-14.36.27:992][782]BlueprintLog: New page: Compile Killer_Box_Level_3
+[2022.10.27-14.36.28:122][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.10.27-14.36.44:342][843]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.10.27-14.36.44:514][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.10.27-14.36.49:776][191]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2022.10.27-14.38.13:131][202]BlueprintLog: New page: Compile Killer_Box_Level_3
+[2022.10.27-14.38.13:271][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.10.27-14.38.47:132][461]BlueprintLog: New page: Compile EndDoorLevel1
+[2022.10.27-14.38.47:262][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.10.27-14.38.50:072][682]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/2/DN/OCI12EUH28MD2AEUETEE03
+[2022.10.27-14.38.50:116][682]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/OCI12EUH28MD2AEUETEE03A3C3ED9C4575FD0E070FC693E927E200.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/2/DN/OCI12EUH28MD2AEUETEE03.uasset'
+[2022.10.27-14.38.50:238][682]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/4/8R/FKQU2ZOR972B426PJ351UL
+[2022.10.27-14.38.50:286][682]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/FKQU2ZOR972B426PJ351UL1E0CA8CC412C109775B59893EBD68603.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/4/8R/FKQU2ZOR972B426PJ351UL.uasset'
+[2022.10.27-14.38.50:380][682]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/3/LG/QCPBV94YN3Z0M6KV33V2QX
+[2022.10.27-14.38.50:429][682]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/QCPBV94YN3Z0M6KV33V2QXF98D87FA443CD8F299B544BF3602D7DA.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/3/LG/QCPBV94YN3Z0M6KV33V2QX.uasset'
+[2022.10.27-14.38.50:528][682]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/6/0D/2BGPICM3UGBM1UHK1ZD19M
+[2022.10.27-14.38.50:572][682]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/2BGPICM3UGBM1UHK1ZD19M18CBB4D54F9FECD67952198174A23FA4.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/6/0D/2BGPICM3UGBM1UHK1ZD19M.uasset'
+[2022.10.27-14.38.50:688][682]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/0/BE/4Y6AQ3CAYYZDTOXRHEZ2RM
+[2022.10.27-14.38.50:737][682]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/4Y6AQ3CAYYZDTOXRHEZ2RM8ACE28C94424C3222965AD9BEFD5217D.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/0/BE/4Y6AQ3CAYYZDTOXRHEZ2RM.uasset'
+[2022.10.27-14.38.50:838][682]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.27-14.38.50:838][682]LogContentValidation: Display: Validating LeverAttempt_C /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.LeverAttempt_C_UAID_04D4C404EDFBEC4301_1827214456
+[2022.10.27-14.38.50:838][682]LogContentValidation: Display: Validating Killer_Box_Level_3_C /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.Killer_Box_Level_3_C_UAID_04D4C404EDFBF44301_1252779890
+[2022.10.27-14.38.50:839][682]LogContentValidation: Display: Validating EndDoorLevel2_C /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.EndDoorLevel2_C_UAID_04D4C404EDFBEA4301_1395619096
+[2022.10.27-14.38.50:839][682]LogContentValidation: Display: Validating LeverAttempt_C /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.LeverAttempt_C_UAID_04D4C404EDFBED4301_1197614642
+[2022.10.27-14.38.50:839][682]LogContentValidation: Display: Validating EndDoorLevel1_C /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.EndDoor_C_UAID_107B4417FAEBAE4301_1291800560
