@@ -6915,3 +6915,58 @@ Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Set MovingPlatform
 [2022.10.27-14.38.50:839][682]LogContentValidation: Display: Validating EndDoorLevel2_C /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.EndDoorLevel2_C_UAID_04D4C404EDFBEA4301_1395619096
 [2022.10.27-14.38.50:839][682]LogContentValidation: Display: Validating LeverAttempt_C /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.LeverAttempt_C_UAID_04D4C404EDFBED4301_1197614642
 [2022.10.27-14.38.50:839][682]LogContentValidation: Display: Validating EndDoorLevel1_C /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.EndDoor_C_UAID_107B4417FAEBAE4301_1291800560
+[2022.10.27-14.40.51:372][244]BlueprintLog: New page: Compile EndDoorLevel1
+[2022.10.27-14.40.51:505][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.10.27-14.40.53:216][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JJ_Stuff/EndDoorLevel1" FILE="F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/EndDoorLevel1.uasset" SILENT=true
+[2022.10.27-14.40.53:289][379]LogSavePackage: Moving output files for package: /Game/JJ_Stuff/EndDoorLevel1
+[2022.10.27-14.40.53:334][379]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/EndDoorLevel14F210F884A14426C2097429D806BAA9C.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/EndDoorLevel1.uasset'
+[2022.10.27-14.40.53:423][379]AssetCheck: New page: Asset Save: EndDoorLevel1
+[2022.10.27-14.40.53:423][379]LogContentValidation: Display: Validating Blueprint /Game/JJ_Stuff/EndDoorLevel1.EndDoorLevel1
+[2022.10.27-14.40.57:402][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.10.27-14.40.57:493][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/4/8R/FKQU2ZOR972B426PJ351UL_Auto2
+[2022.10.27-14.40.57:493][701]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/FKQU2ZOR972B426PJ351UL_Auto23843794740971B72BA7679A352485900.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/4/8R/FKQU2ZOR972B426PJ351UL_Auto2.uasset'
+[2022.10.27-14.40.57:605][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/0/BE/4Y6AQ3CAYYZDTOXRHEZ2RM_Auto2
+[2022.10.27-14.40.57:605][701]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/4Y6AQ3CAYYZDTOXRHEZ2RM_Auto234AF26384B2510C91B9498B306618BFC.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/0/BE/4Y6AQ3CAYYZDTOXRHEZ2RM_Auto2.uasset'
+[2022.10.27-14.40.57:664][701]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Level_3_Blockout' took 0.349
+[2022.10.27-14.40.57:664][701]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.349
+[2022.10.27-14.40.57:676][701]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2022.10.27-14.40.57:689][701]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2022.10.27-14.40.57:689][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2022.10.27-14.40.58:051][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2022.10.27-14.40.58:051][701]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/BP_ThirdPersonCharacter_Auto29462119740F9F364D996AAA3B2A231D1.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2022.10.27-14.40.58:113][701]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/JJ_Stuff/EndDoorLevel2] ([2] browsable assets)...
+[2022.10.27-14.40.58:121][701]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JJ_Stuff/EndDoorLevel2.EndDoorLevel2]
+[2022.10.27-14.40.58:121][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/JJ_Stuff/EndDoorLevel2]
+[2022.10.27-14.40.58:220][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/JJ_Stuff/EndDoorLevel2_Auto2
+[2022.10.27-14.40.58:220][701]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/EndDoorLevel2_Auto23554C43941573F7E98CBA4A88A71043D.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Autosaves/Game/JJ_Stuff/EndDoorLevel2_Auto2.uasset'
+[2022.10.27-14.40.58:276][701]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/JJ_Stuff/Killer_Box_Level_3] ([2] browsable assets)...
+[2022.10.27-14.40.58:284][701]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JJ_Stuff/Killer_Box_Level_3.Killer_Box_Level_3]
+[2022.10.27-14.40.58:284][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/JJ_Stuff/Killer_Box_Level_3]
+[2022.10.27-14.40.58:351][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/JJ_Stuff/Killer_Box_Level_3_Auto2
+[2022.10.27-14.40.58:351][701]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Killer_Box_Level_3_Auto2D5B2325B4E21F419060454A72D353EFB.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Autosaves/Game/JJ_Stuff/Killer_Box_Level_3_Auto2.uasset'
+[2022.10.27-14.40.58:398][701]LogFileHelpers: Auto-saving content packages took 0.733
+[2022.10.27-14.41.01:455][952]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/4/8R/FKQU2ZOR972B426PJ351UL
+[2022.10.27-14.41.01:500][952]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/FKQU2ZOR972B426PJ351UL2F42FC054DC05BBFC8F6E9A3B3CAAB17.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/4/8R/FKQU2ZOR972B426PJ351UL.uasset'
+[2022.10.27-14.41.01:619][952]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/0/BE/4Y6AQ3CAYYZDTOXRHEZ2RM
+[2022.10.27-14.41.01:663][952]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/4Y6AQ3CAYYZDTOXRHEZ2RM246A94F64A5B49526D6185B4E14CBA3F.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/__ExternalActors__/ThirdPerson/Maps/Level_3_Blockout/0/BE/4Y6AQ3CAYYZDTOXRHEZ2RM.uasset'
+[2022.10.27-14.41.01:758][952]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.27-14.41.01:758][952]LogContentValidation: Display: Validating Killer_Box_Level_3_C /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.Killer_Box_Level_3_C_UAID_04D4C404EDFBF44301_1252779890
+[2022.10.27-14.41.01:758][952]LogContentValidation: Display: Validating EndDoorLevel1_C /Game/ThirdPerson/Maps/Level_3_Blockout.Level_3_Blockout:PersistentLevel.EndDoor_C_UAID_107B4417FAEBAE4301_1291800560
+[2022.10.27-14.41.07:533][357]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.10.27-14.41.07:576][357]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/BP_ThirdPersonCharacter83FFB84A405751363EC091BD50E83CFE.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.10.27-14.41.07:675][357]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.10.27-14.41.07:675][357]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.10.27-14.41.11:315][619]BlueprintLog: New page: Compile Killer_Box_Level_3
+[2022.10.27-14.41.11:439][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.10.27-14.41.12:420][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JJ_Stuff/Killer_Box_Level_3" FILE="F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Killer_Box_Level_3.uasset" SILENT=true
+[2022.10.27-14.41.12:483][687]LogSavePackage: Moving output files for package: /Game/JJ_Stuff/Killer_Box_Level_3
+[2022.10.27-14.41.12:529][687]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/Killer_Box_Level_32568CB4E41BC2EA167022CBE1A2B1EB8.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/Killer_Box_Level_3.uasset'
+[2022.10.27-14.41.12:613][687]AssetCheck: New page: Asset Save: Killer_Box_Level_3
+[2022.10.27-14.41.12:613][687]LogContentValidation: Display: Validating Blueprint /Game/JJ_Stuff/Killer_Box_Level_3.Killer_Box_Level_3
+[2022.10.27-14.41.14:897][856]BlueprintLog: New page: Compile EndDoorLevel2
+[2022.10.27-14.41.15:064][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.10.27-14.41.15:687][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JJ_Stuff/EndDoorLevel2" FILE="F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/EndDoorLevel2.uasset" SILENT=true
+[2022.10.27-14.41.15:783][886]LogSavePackage: Moving output files for package: /Game/JJ_Stuff/EndDoorLevel2
+[2022.10.27-14.41.15:827][886]LogSavePackage: Moving 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Saved/EndDoorLevel28DAC81EF4F368E02A68A78838DA881BE.tmp' to 'F:/Ulster Uni/Mobile Games Development/Project_Shade/Content/JJ_Stuff/EndDoorLevel2.uasset'
+[2022.10.27-14.41.15:916][886]AssetCheck: New page: Asset Save: EndDoorLevel2
+[2022.10.27-14.41.15:916][886]LogContentValidation: Display: Validating Blueprint /Game/JJ_Stuff/EndDoorLevel2.EndDoorLevel2
